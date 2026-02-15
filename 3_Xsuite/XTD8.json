@@ -1,0 +1,2580 @@
+{
+ "__class__": "Environment",
+ "xtrack_version": "0.99.1",
+ "elements": {
+  "ID_71329109_": {
+   "__class__": "Drift",
+   "length": 12.39
+  },
+  "D_3": {
+   "__class__": "Drift",
+   "length": 0.205
+  },
+  "QE2756T5": {
+   "__class__": "Quadrupole",
+   "length": 0.24,
+   "k1": -0.21551678190000004,
+   "order": 5
+  },
+  "D_4": {
+   "__class__": "Drift",
+   "length": 0.14
+  },
+  "CEY2756T5": {
+   "__class__": "RBend",
+   "rot_s_rad": 1.5707963267948966,
+   "length_straight": 0.1,
+   "order": 5,
+   "length": 0.1,
+   "rbend_model": "adaptive",
+   "angle": 0.0
+  },
+  "D_5": {
+   "__class__": "Drift",
+   "length": 9.315
+  },
+  "QE2766T5": {
+   "__class__": "Quadrupole",
+   "length": 0.24,
+   "k1": 0.1255484698,
+   "order": 5
+  },
+  "CEX2766T5": {
+   "__class__": "RBend",
+   "length_straight": 0.1,
+   "order": 5,
+   "length": 0.1,
+   "rbend_model": "adaptive",
+   "angle": 0.0
+  },
+  "QE2776T5": {
+   "__class__": "Quadrupole",
+   "length": 0.24,
+   "k1": 0.133219012,
+   "order": 5
+  },
+  "CEX2776T5": {
+   "__class__": "RBend",
+   "length_straight": 0.1,
+   "order": 5,
+   "length": 0.1,
+   "rbend_model": "adaptive",
+   "angle": 0.0
+  },
+  "QE2786T5": {
+   "__class__": "Quadrupole",
+   "length": 0.24,
+   "k1": -0.2117153227,
+   "order": 5
+  },
+  "CEY2786T5": {
+   "__class__": "RBend",
+   "rot_s_rad": 1.5707963267948966,
+   "length_straight": 0.1,
+   "order": 5,
+   "length": 0.1,
+   "rbend_model": "adaptive",
+   "angle": 0.0
+  },
+  "D_14": {
+   "__class__": "Drift",
+   "length": 17.095
+  },
+  "D_15": {
+   "__class__": "Drift",
+   "length": 0.21045
+  },
+  "QH2804T5": {
+   "__class__": "Quadrupole",
+   "length": 1.0291,
+   "k1": 0.19652570639976683,
+   "order": 5
+  },
+  "D_16": {
+   "__class__": "Drift",
+   "length": 0.15545
+  },
+  "CHX2805T5": {
+   "__class__": "RBend",
+   "length_straight": 0.2,
+   "order": 5,
+   "length": 0.2,
+   "rbend_model": "adaptive",
+   "angle": 0.0
+  },
+  "D_17": {
+   "__class__": "Drift",
+   "length": 1.545
+  },
+  "QH2807T5": {
+   "__class__": "Quadrupole",
+   "length": 1.0291,
+   "k1": -0.1965228316995433,
+   "order": 5
+  },
+  "CHY2808T5": {
+   "__class__": "RBend",
+   "rot_s_rad": 1.5707963267948966,
+   "length_straight": 0.2,
+   "order": 5,
+   "length": 0.2,
+   "rbend_model": "adaptive",
+   "angle": 0.0
+  },
+  "D_20": {
+   "__class__": "Drift",
+   "length": 9.06
+  },
+  "CHX2817T5": {
+   "__class__": "RBend",
+   "length_straight": 0.2,
+   "order": 5,
+   "length": 0.2,
+   "rbend_model": "adaptive",
+   "angle": 0.0
+  },
+  "D_21": {
+   "__class__": "Drift",
+   "length": 0.185
+  },
+  "CHY2818T5": {
+   "__class__": "RBend",
+   "rot_s_rad": 1.5707963267948966,
+   "length_straight": 0.2,
+   "order": 5,
+   "length": 0.2,
+   "rbend_model": "adaptive",
+   "angle": 0.0
+  },
+  "D_22": {
+   "__class__": "Drift",
+   "length": 0.182
+  },
+  "D_23": {
+   "__class__": "Drift",
+   "length": 0.21845
+  },
+  "QH2819T5": {
+   "__class__": "Quadrupole",
+   "length": 1.0291,
+   "k1": 0.2948796721999806,
+   "order": 5
+  },
+  "ID_73522913_": {
+   "__class__": "Drift",
+   "length": 0.385465
+  },
+  "BE2821T5": {
+   "__class__": "Bend",
+   "angle": -0.0169497,
+   "edge_entry_angle": -0.00847485,
+   "order": 5,
+   "length": 2.5,
+   "edge_exit_angle": -0.00847485
+  },
+  "D_26": {
+   "__class__": "Drift",
+   "length": 1.070165
+  },
+  "QM2824T5": {
+   "__class__": "Quadrupole",
+   "length": 1.0597,
+   "k1": -0.2866762791997735,
+   "order": 5
+  },
+  "D_27": {
+   "__class__": "Drift",
+   "length": 3.59515
+  },
+  "D_28": {
+   "__class__": "Drift",
+   "length": 0.34515
+  },
+  "QM2829T5": {
+   "__class__": "Quadrupole",
+   "length": 1.0597,
+   "k1": 0.2878854605001415,
+   "order": 5
+  },
+  "D_29": {
+   "__class__": "Drift",
+   "length": 0.29015
+  },
+  "CHX2830T5": {
+   "__class__": "RBend",
+   "length_straight": 0.2,
+   "order": 5,
+   "length": 0.2,
+   "rbend_model": "adaptive",
+   "angle": 0.0
+  },
+  "D_30": {
+   "__class__": "Drift",
+   "length": 0.6718
+  },
+  "SAOX2831T5": {
+   "__class__": "Sextupole",
+   "length": 0.3164,
+   "k2": -16.23261694,
+   "order": 5
+  },
+  "D_31": {
+   "__class__": "Drift",
+   "length": 2.1168
+  },
+  "QM2834T5": {
+   "__class__": "Quadrupole",
+   "length": 1.0597,
+   "k1": -0.2866762791997735,
+   "order": 5
+  },
+  "CHY2835T5": {
+   "__class__": "RBend",
+   "rot_s_rad": 1.5707963267948966,
+   "length_straight": 0.2,
+   "order": 5,
+   "length": 0.2,
+   "rbend_model": "adaptive",
+   "angle": 0.0
+  },
+  "D_34": {
+   "__class__": "Drift",
+   "length": 1.3218
+  },
+  "SAO2836T5": {
+   "__class__": "Sextupole",
+   "length": 0.3164,
+   "k2": -5.755372945998736,
+   "order": 5
+  },
+  "D_35": {
+   "__class__": "Drift",
+   "length": 1.0768
+  },
+  "CHX2838T5": {
+   "__class__": "RBend",
+   "length_straight": 0.2,
+   "order": 5,
+   "length": 0.2,
+   "rbend_model": "adaptive",
+   "angle": 0.0
+  },
+  "D_36": {
+   "__class__": "Drift",
+   "length": 0.19
+  },
+  "QM2839T5": {
+   "__class__": "Quadrupole",
+   "length": 1.0597,
+   "k1": 0.2878854605001415,
+   "order": 5
+  },
+  "D_38": {
+   "__class__": "Drift",
+   "length": 0.370165
+  },
+  "BE2841T5": {
+   "__class__": "Bend",
+   "angle": -0.0169497,
+   "edge_entry_angle": -0.00847485,
+   "order": 5,
+   "length": 2.5,
+   "edge_exit_angle": -0.00847485
+  },
+  "D_39": {
+   "__class__": "Drift",
+   "length": 0.875015
+  },
+  "QH2844T5": {
+   "__class__": "Quadrupole",
+   "length": 1.0291,
+   "k1": -0.294760129400447,
+   "order": 5
+  },
+  "CHY2845T5": {
+   "__class__": "RBend",
+   "rot_s_rad": 1.5707963267948966,
+   "length_straight": 0.2,
+   "order": 5,
+   "length": 0.2,
+   "rbend_model": "adaptive",
+   "angle": 0.0
+  },
+  "DExtraction": {
+   "__class__": "Drift",
+   "length": 6.164939999999916
+  },
+  "BSECP2851T8": {
+   "__class__": "RBend",
+   "angle": 0.000102,
+   "length_straight": 0.7999999996532001,
+   "order": 5,
+   "length": 0.8000000000000002,
+   "rbend_model": "adaptive"
+  },
+  "D00": {
+   "__class__": "Drift",
+   "length": 3.080510017412095
+  },
+  "QH2855T5_shift_X": {
+   "__class__": "RBend",
+   "k1": 0.19652570639976683,
+   "angle": -7.179926571893521e-05,
+   "length_straight": 1.029099999778952,
+   "order": 5,
+   "length": 1.0291,
+   "rbend_model": "adaptive"
+  },
+  "D020": {
+   "__class__": "Drift",
+   "length": 2.1109000034319223
+  },
+  "QH2858T5_shift_X": {
+   "__class__": "RBend",
+   "k1": -0.1965228316995433,
+   "angle": 9.844853111614979e-05,
+   "length_straight": 1.0290999995844103,
+   "order": 5,
+   "length": 1.0291,
+   "rbend_model": "adaptive"
+  },
+  "D022": {
+   "__class__": "Drift",
+   "length": 1.7335878940623901
+  },
+  "KP2861T8": {
+   "__class__": "RBend",
+   "angle": 0.000102,
+   "length_straight": 0.7999999996532001,
+   "order": 5,
+   "length": 0.8000000000000002,
+   "rbend_model": "adaptive"
+  },
+  "D1": {
+   "__class__": "Drift",
+   "length": 0.13000049659436208
+  },
+  "KP2862T8": {
+   "__class__": "RBend",
+   "angle": 0.000102,
+   "length_straight": 0.7999999996532001,
+   "order": 5,
+   "length": 0.8000000000000002,
+   "rbend_model": "adaptive"
+  },
+  "D2": {
+   "__class__": "Drift",
+   "length": 0.12999949741060401
+  },
+  "KP2863T8": {
+   "__class__": "RBend",
+   "angle": 0.000102,
+   "length_straight": 0.7999999996532001,
+   "order": 5,
+   "length": 0.8000000000000002,
+   "rbend_model": "adaptive"
+  },
+  "D3": {
+   "__class__": "Drift",
+   "length": 0.1300004965948166
+  },
+  "KP2864T8": {
+   "__class__": "RBend",
+   "angle": 0.000102,
+   "length_straight": 0.7999999996532001,
+   "order": 5,
+   "length": 0.8000000000000002,
+   "rbend_model": "adaptive"
+  },
+  "D4": {
+   "__class__": "Drift",
+   "length": 0.12999949741060413
+  },
+  "KP2865T8": {
+   "__class__": "RBend",
+   "angle": 0.000102,
+   "length_straight": 0.7999999996532001,
+   "order": 5,
+   "length": 0.8000000000000002,
+   "rbend_model": "adaptive"
+  },
+  "D5": {
+   "__class__": "Drift",
+   "length": 11.204994911227066
+  },
+  "BZ2876T8": {
+   "__class__": "Bend",
+   "angle": 0.00887663,
+   "order": 5,
+   "length": 1.0
+  },
+  "D60": {
+   "__class__": "Drift",
+   "length": 0.7119182884940756
+  },
+  "QE2878T5_shift_X": {
+   "__class__": "RBend",
+   "k1": 0.19227955160000001,
+   "angle": -0.0009936681921591177,
+   "length_straight": 0.23999999012623532,
+   "order": 5,
+   "length": 0.24,
+   "rbend_model": "adaptive"
+  },
+  "D62": {
+   "__class__": "Drift",
+   "length": 0.580173920841113
+  },
+  "BZ2878T8": {
+   "__class__": "Bend",
+   "angle": 0.00887663,
+   "order": 5,
+   "length": 1.0
+  },
+  "D7": {
+   "__class__": "Drift",
+   "length": 0.49999471729109124
+  },
+  "BZ2880T8": {
+   "__class__": "Bend",
+   "angle": 0.00887663,
+   "order": 5,
+   "length": 1.0
+  },
+  "D8": {
+   "__class__": "Drift",
+   "length": 0.4999950070423871
+  },
+  "BZ2881T8": {
+   "__class__": "Bend",
+   "angle": 0.00887663,
+   "order": 5,
+   "length": 1.0
+  },
+  "D9": {
+   "__class__": "Drift",
+   "length": 3.166800109323535
+  },
+  "QH2887T8": {
+   "__class__": "Quadrupole",
+   "length": 1.0291,
+   "k1": -0.19815772395559636,
+   "order": 5
+  },
+  "D10": {
+   "__class__": "Drift",
+   "length": 2.2376300398029114
+  },
+  "QH2890T8": {
+   "__class__": "Quadrupole",
+   "length": 1.0291,
+   "k1": 0.3300085694798983,
+   "order": 5
+  },
+  "D11": {
+   "__class__": "Drift",
+   "length": 3.42291285813781
+  },
+  "QH2892T8": {
+   "__class__": "Quadrupole",
+   "length": 1.0291,
+   "k1": -0.07425425220372346,
+   "order": 5
+  },
+  "D12": {
+   "__class__": "Drift",
+   "length": 1.9315627169005913
+  },
+  "BE2899T8": {
+   "__class__": "Bend",
+   "angle": 0.032966988926761906,
+   "order": 5,
+   "length": 2.50003
+  },
+  "D13": {
+   "__class__": "Drift",
+   "length": 0.9397203959652176
+  },
+  "QF2906T8": {
+   "__class__": "Quadrupole",
+   "length": 0.5321,
+   "k1": 0.47921044377506505,
+   "order": 5
+  },
+  "D14": {
+   "__class__": "Drift",
+   "length": 8.37308089620156
+  },
+  "QF2911T8": {
+   "__class__": "Quadrupole",
+   "length": 0.5321,
+   "k1": -0.16064089176124277,
+   "order": 5
+  },
+  "D15": {
+   "__class__": "Drift",
+   "length": 12.446743099794565
+  },
+  "QF2920T8": {
+   "__class__": "Quadrupole",
+   "length": 0.5321,
+   "k1": -0.14478637910298262,
+   "order": 5
+  },
+  "D16": {
+   "__class__": "Drift",
+   "length": 8.470859502114426
+  },
+  "QF2925T8": {
+   "__class__": "Quadrupole",
+   "length": 0.5321,
+   "k1": 0.3030725364181882,
+   "order": 5
+  },
+  "D17": {
+   "__class__": "Drift",
+   "length": 3.560455423790194
+  },
+  "BE2935T8": {
+   "__class__": "Bend",
+   "angle": -0.0170504,
+   "order": 5,
+   "length": 2.50003
+  },
+  "D18": {
+   "__class__": "Drift",
+   "length": 2.824202473465836
+  },
+  "QH2941T8": {
+   "__class__": "Quadrupole",
+   "length": 1.0291,
+   "k1": -0.5273318169749354,
+   "order": 5
+  },
+  "D19": {
+   "__class__": "Drift",
+   "length": 3.5780003683648447
+  },
+  "QH2944T8": {
+   "__class__": "Quadrupole",
+   "length": 1.0291,
+   "k1": 0.33090614001636626,
+   "order": 5
+  },
+  "D20": {
+   "__class__": "Drift",
+   "length": 3.4369645612075965
+  },
+  "QH2946T8": {
+   "__class__": "Quadrupole",
+   "length": 1.0291,
+   "k1": -0.25267851101204586,
+   "order": 5
+  },
+  "D21": {
+   "__class__": "Drift",
+   "length": 2.669767499979848
+  },
+  "BE2953T8": {
+   "__class__": "Bend",
+   "angle": -0.017168689999999997,
+   "order": 5,
+   "length": 2.50003
+  },
+  "D22": {
+   "__class__": "Drift",
+   "length": 7.013045174029304
+  },
+  "QF2955T8": {
+   "__class__": "Quadrupole",
+   "length": 0.5321,
+   "k1": 0.39381855955663786,
+   "order": 5
+  },
+  "D23": {
+   "__class__": "Drift",
+   "length": 5.027601635737343
+  },
+  "QF2961T8": {
+   "__class__": "Quadrupole",
+   "length": 0.5321,
+   "k1": -0.4539907241044157,
+   "order": 5
+  },
+  "D24": {
+   "__class__": "Drift",
+   "length": 9.992991705874688
+  },
+  "QF2981T8": {
+   "__class__": "Quadrupole",
+   "length": 0.5321,
+   "k1": 0.4407775590157912,
+   "order": 5
+  },
+  "D25": {
+   "__class__": "Drift",
+   "length": 4.982361571489832
+  },
+  "QF2987T8": {
+   "__class__": "Quadrupole",
+   "length": 0.5321,
+   "k1": -0.31544646203648274,
+   "order": 5
+  },
+  "DTransport": {
+   "__class__": "Drift",
+   "length": 8.453535220007183
+  },
+  "QE1T8": {
+   "__class__": "Quadrupole",
+   "length": 0.24,
+   "k1": 0.5142857142857143,
+   "order": 5
+  },
+  "DFODO": {
+   "__class__": "Drift",
+   "length": 9.023
+  },
+  "QE2T8": {
+   "__class__": "Quadrupole",
+   "length": 0.24,
+   "k1": -0.5142857142857143,
+   "order": 5
+  },
+  "QH11T20": {
+   "__class__": "Quadrupole",
+   "length": 1.0291,
+   "k1": -0.14788652119851647,
+   "order": 5
+  },
+  "D038545": {
+   "__class__": "Drift",
+   "length": 0.38545
+  },
+  "CHXT20": {
+   "__class__": "RBend",
+   "length_straight": 0.2,
+   "order": 5,
+   "length": 0.2,
+   "rbend_model": "adaptive",
+   "angle": 0.0
+  },
+  "QH12T20": {
+   "__class__": "Quadrupole",
+   "length": 1.0291,
+   "k1": 0.03890579702141839,
+   "order": 5
+  },
+  "D018545": {
+   "__class__": "Drift",
+   "length": 0.18545
+  },
+  "CHYT20": {
+   "__class__": "RBend",
+   "length_straight": 0.2,
+   "order": 5,
+   "length": 0.2,
+   "rbend_model": "adaptive",
+   "angle": 0.0
+  },
+  "D0200": {
+   "__class__": "Drift",
+   "length": 0.2
+  },
+  "D03982L": {
+   "__class__": "Drift",
+   "length": 0.398247
+  },
+  "QH13T20": {
+   "__class__": "Quadrupole",
+   "length": 1.0291,
+   "k1": 0.039207806934336044,
+   "order": 5
+  },
+  "D01918": {
+   "__class__": "Drift",
+   "length": 0.1918
+  },
+  "QH14T20": {
+   "__class__": "Quadrupole",
+   "length": 1.0291,
+   "k1": 0.17740036197542125,
+   "order": 5
+  },
+  "QH15T20": {
+   "__class__": "Quadrupole",
+   "length": 1.0291,
+   "k1": -0.42236472045218826,
+   "order": 5
+  },
+  "D01500": {
+   "__class__": "Drift",
+   "length": 0.15
+  },
+  "D08500": {
+   "__class__": "Drift",
+   "length": 0.85
+  },
+  "D46200": {
+   "__class__": "Drift",
+   "length": 4.62
+  },
+  "D2890L": {
+   "__class__": "Drift",
+   "length": 2.890001
+  },
+  "D70899L": {
+   "__class__": "Drift",
+   "length": 7.089999
+  }
+ },
+ "particle_ref": {
+  "rvv": [
+   1.0
+  ],
+  "zeta": [
+   0.0
+  ],
+  "q0": -1.0,
+  "p0c": [
+   17.50000000746057
+  ],
+  "ptau": [
+   0.0
+  ],
+  "at_element": [
+   0
+  ],
+  "rpp": [
+   1.0
+  ],
+  "spin_x": [
+   0.0
+  ],
+  "beta0": [
+   3.424664570680289e-05
+  ],
+  "delta": [
+   0.0
+  ],
+  "weight": [
+   1.0
+  ],
+  "_rng_s3": [
+   0
+  ],
+  "anomalous_magnetic_moment": [
+   0.0
+  ],
+  "parent_particle_id": [
+   0
+  ],
+  "spin_y": [
+   0.0
+  ],
+  "gamma0": [
+   1.0000000005864165
+  ],
+  "mass0": 510998.95,
+  "particle_id": [
+   0
+  ],
+  "ax": [
+   0.0
+  ],
+  "_rng_s4": [
+   0
+  ],
+  "pdg_id": [
+   0
+  ],
+  "charge_ratio": [
+   1.0
+  ],
+  "state": [
+   1
+  ],
+  "spin_z": [
+   0.0
+  ],
+  "_rng_s1": [
+   0
+  ],
+  "px": [
+   0.0
+  ],
+  "y": [
+   0.0
+  ],
+  "start_tracking_at_element": -1,
+  "ay": [
+   0.0
+  ],
+  "x": [
+   0.0
+  ],
+  "py": [
+   0.0
+  ],
+  "_rng_s2": [
+   0
+  ],
+  "at_turn": [
+   0
+  ],
+  "s": [
+   0.0
+  ],
+  "chi": [
+   1.0
+  ]
+ },
+ "_var_management_data": {
+  "var_values": {
+   "t_turn_s": 0.0,
+   "__vary_default": {},
+   "ID_71329109__L": 12.39,
+   "D_3_L": 0.205,
+   "QE2756T5_L": 0.24,
+   "QE2756T5_K1": -0.21551678190000004,
+   "D_4_L": 0.14,
+   "CEY2756T5_L": 0.1,
+   "CEY2756T5_ANGLE": 0.0,
+   "CEY2756T5_K1": 0.0,
+   "D_5_L": 9.315,
+   "QE2766T5_L": 0.24,
+   "QE2766T5_K1": 0.1255484698,
+   "CEX2766T5_L": 0.1,
+   "CEX2766T5_ANGLE": 0.0,
+   "CEX2766T5_K1": 0.0,
+   "QE2776T5_L": 0.24,
+   "QE2776T5_K1": 0.133219012,
+   "CEX2776T5_L": 0.1,
+   "CEX2776T5_ANGLE": 0.0,
+   "CEX2776T5_K1": 0.0,
+   "QE2786T5_L": 0.24,
+   "QE2786T5_K1": -0.2117153227,
+   "CEY2786T5_L": 0.1,
+   "CEY2786T5_ANGLE": 0.0,
+   "CEY2786T5_K1": 0.0,
+   "D_14_L": 17.095,
+   "D_15_L": 0.21045,
+   "QH2804T5_L": 1.0291,
+   "QH2804T5_K1": 0.19652570639976683,
+   "D_16_L": 0.15545,
+   "CHX2805T5_L": 0.2,
+   "CHX2805T5_ANGLE": 0.0,
+   "CHX2805T5_K1": 0.0,
+   "D_17_L": 1.545,
+   "QH2807T5_L": 1.0291,
+   "QH2807T5_K1": -0.1965228316995433,
+   "CHY2808T5_L": 0.2,
+   "CHY2808T5_ANGLE": 0.0,
+   "CHY2808T5_K1": 0.0,
+   "D_20_L": 9.06,
+   "CHX2817T5_L": 0.2,
+   "CHX2817T5_ANGLE": 0.0,
+   "CHX2817T5_K1": 0.0,
+   "D_21_L": 0.185,
+   "CHY2818T5_L": 0.2,
+   "CHY2818T5_ANGLE": 0.0,
+   "CHY2818T5_K1": 0.0,
+   "D_22_L": 0.182,
+   "D_23_L": 0.21845,
+   "QH2819T5_L": 1.0291,
+   "QH2819T5_K1": 0.2948796721999806,
+   "ID_73522913__L": 0.385465,
+   "BE2821T5_L": 2.5,
+   "BE2821T5_ANGLE": -0.0169497,
+   "BE2821T5_E1": -0.00847485,
+   "BE2821T5_E2": -0.00847485,
+   "BE2821T5_K1": 0.0,
+   "D_26_L": 1.070165,
+   "QM2824T5_L": 1.0597,
+   "QM2824T5_K1": -0.2866762791997735,
+   "D_27_L": 3.59515,
+   "D_28_L": 0.34515,
+   "QM2829T5_L": 1.0597,
+   "QM2829T5_K1": 0.2878854605001415,
+   "D_29_L": 0.29015,
+   "CHX2830T5_L": 0.2,
+   "CHX2830T5_ANGLE": 0.0,
+   "CHX2830T5_K1": 0.0,
+   "D_30_L": 0.6718,
+   "SAOX2831T5_L": 0.3164,
+   "SAOX2831T5_K2": -16.23261694,
+   "D_31_L": 2.1168,
+   "QM2834T5_L": 1.0597,
+   "QM2834T5_K1": -0.2866762791997735,
+   "CHY2835T5_L": 0.2,
+   "CHY2835T5_ANGLE": 0.0,
+   "CHY2835T5_K1": 0.0,
+   "D_34_L": 1.3218,
+   "SAO2836T5_L": 0.3164,
+   "SAO2836T5_K2": -5.755372945998736,
+   "D_35_L": 1.0768,
+   "CHX2838T5_L": 0.2,
+   "CHX2838T5_ANGLE": 0.0,
+   "CHX2838T5_K1": 0.0,
+   "D_36_L": 0.19,
+   "QM2839T5_L": 1.0597,
+   "QM2839T5_K1": 0.2878854605001415,
+   "D_38_L": 0.370165,
+   "BE2841T5_L": 2.5,
+   "BE2841T5_ANGLE": -0.0169497,
+   "BE2841T5_E1": -0.00847485,
+   "BE2841T5_E2": -0.00847485,
+   "BE2841T5_K1": 0.0,
+   "D_39_L": 0.875015,
+   "QH2844T5_L": 1.0291,
+   "QH2844T5_K1": -0.294760129400447,
+   "CHY2845T5_L": 0.2,
+   "CHY2845T5_ANGLE": 0.0,
+   "CHY2845T5_K1": 0.0,
+   "DExtraction_L": 6.164939999999916,
+   "BSECP2851T8_L": 0.7999999996532001,
+   "BSECP2851T8_ANGLE": 0.000102,
+   "BSECP2851T8_K1": 0.0,
+   "D00_L": 3.080510017412095,
+   "QH2855T5_shift_X_L": 1.029099999778952,
+   "QH2855T5_shift_X_ANGLE": -7.179926571893521e-05,
+   "QH2855T5_shift_X_K1": 0.19652570639976683,
+   "D020_L": 2.1109000034319223,
+   "QH2858T5_shift_X_L": 1.0290999995844103,
+   "QH2858T5_shift_X_ANGLE": 9.844853111614979e-05,
+   "QH2858T5_shift_X_K1": -0.1965228316995433,
+   "D022_L": 1.7335878940623901,
+   "KP2861T8_L": 0.7999999996532001,
+   "KP2861T8_ANGLE": 0.000102,
+   "KP2861T8_K1": 0.0,
+   "D1_L": 0.13000049659436208,
+   "KP2862T8_L": 0.7999999996532001,
+   "KP2862T8_ANGLE": 0.000102,
+   "KP2862T8_K1": 0.0,
+   "D2_L": 0.12999949741060401,
+   "KP2863T8_L": 0.7999999996532001,
+   "KP2863T8_ANGLE": 0.000102,
+   "KP2863T8_K1": 0.0,
+   "D3_L": 0.1300004965948166,
+   "KP2864T8_L": 0.7999999996532001,
+   "KP2864T8_ANGLE": 0.000102,
+   "KP2864T8_K1": 0.0,
+   "D4_L": 0.12999949741060413,
+   "KP2865T8_L": 0.7999999996532001,
+   "KP2865T8_ANGLE": 0.000102,
+   "KP2865T8_K1": 0.0,
+   "D5_L": 11.204994911227066,
+   "BZ2876T8_L": 1.0,
+   "BZ2876T8_ANGLE": 0.00887663,
+   "BZ2876T8_E1": 0.0,
+   "BZ2876T8_E2": 0.0,
+   "BZ2876T8_K1": 0.0,
+   "D60_L": 0.7119182884940756,
+   "QE2878T5_shift_X_L": 0.23999999012623532,
+   "QE2878T5_shift_X_ANGLE": -0.0009936681921591177,
+   "QE2878T5_shift_X_K1": 0.19227955160000001,
+   "D62_L": 0.580173920841113,
+   "BZ2878T8_L": 1.0,
+   "BZ2878T8_ANGLE": 0.00887663,
+   "BZ2878T8_E1": 0.0,
+   "BZ2878T8_E2": 0.0,
+   "BZ2878T8_K1": 0.0,
+   "D7_L": 0.49999471729109124,
+   "BZ2880T8_L": 1.0,
+   "BZ2880T8_ANGLE": 0.00887663,
+   "BZ2880T8_E1": 0.0,
+   "BZ2880T8_E2": 0.0,
+   "BZ2880T8_K1": 0.0,
+   "D8_L": 0.4999950070423871,
+   "BZ2881T8_L": 1.0,
+   "BZ2881T8_ANGLE": 0.00887663,
+   "BZ2881T8_E1": 0.0,
+   "BZ2881T8_E2": 0.0,
+   "BZ2881T8_K1": 0.0,
+   "D9_L": 3.166800109323535,
+   "QH2887T8_L": 1.0291,
+   "QH2887T8_K1": -0.19815772395559636,
+   "D10_L": 2.2376300398029114,
+   "QH2890T8_L": 1.0291,
+   "QH2890T8_K1": 0.3300085694798983,
+   "D11_L": 3.42291285813781,
+   "QH2892T8_L": 1.0291,
+   "QH2892T8_K1": -0.07425425220372346,
+   "D12_L": 1.9315627169005913,
+   "BE2899T8_L": 2.50003,
+   "BE2899T8_ANGLE": 0.032966988926761906,
+   "BE2899T8_E1": 0.0,
+   "BE2899T8_E2": 0.0,
+   "BE2899T8_K1": 0.0,
+   "D13_L": 0.9397203959652176,
+   "QF2906T8_L": 0.5321,
+   "QF2906T8_K1": 0.47921044377506505,
+   "D14_L": 8.37308089620156,
+   "QF2911T8_L": 0.5321,
+   "QF2911T8_K1": -0.16064089176124277,
+   "D15_L": 12.446743099794565,
+   "QF2920T8_L": 0.5321,
+   "QF2920T8_K1": -0.14478637910298262,
+   "D16_L": 8.470859502114426,
+   "QF2925T8_L": 0.5321,
+   "QF2925T8_K1": 0.3030725364181882,
+   "D17_L": 3.560455423790194,
+   "BE2935T8_L": 2.50003,
+   "BE2935T8_ANGLE": -0.0170504,
+   "BE2935T8_E1": 0.0,
+   "BE2935T8_E2": 0.0,
+   "BE2935T8_K1": 0.0,
+   "D18_L": 2.824202473465836,
+   "QH2941T8_L": 1.0291,
+   "QH2941T8_K1": -0.5273318169749354,
+   "D19_L": 3.5780003683648447,
+   "QH2944T8_L": 1.0291,
+   "QH2944T8_K1": 0.33090614001636626,
+   "D20_L": 3.4369645612075965,
+   "QH2946T8_L": 1.0291,
+   "QH2946T8_K1": -0.25267851101204586,
+   "D21_L": 2.669767499979848,
+   "BE2953T8_L": 2.50003,
+   "BE2953T8_ANGLE": -0.017168689999999997,
+   "BE2953T8_E1": 0.0,
+   "BE2953T8_E2": 0.0,
+   "BE2953T8_K1": 0.0,
+   "D22_L": 7.013045174029304,
+   "QF2955T8_L": 0.5321,
+   "QF2955T8_K1": 0.39381855955663786,
+   "D23_L": 5.027601635737343,
+   "QF2961T8_L": 0.5321,
+   "QF2961T8_K1": -0.4539907241044157,
+   "D24_L": 9.992991705874688,
+   "QF2981T8_L": 0.5321,
+   "QF2981T8_K1": 0.4407775590157912,
+   "D25_L": 4.982361571489832,
+   "QF2987T8_L": 0.5321,
+   "QF2987T8_K1": -0.31544646203648274,
+   "DTransport_L": 8.453535220007183,
+   "QE1T8_L": 0.24,
+   "QE1T8_K1": 0.5142857142857143,
+   "DFODO_L": 9.023,
+   "QE2T8_L": 0.24,
+   "QE2T8_K1": -0.5142857142857143,
+   "QH11T20_L": 1.0291,
+   "QH11T20_K1": -0.14788652119851647,
+   "D038545_L": 0.38545,
+   "CHXT20_L": 0.2,
+   "CHXT20_ANGLE": 0.0,
+   "CHXT20_K1": 0.0,
+   "QH12T20_L": 1.0291,
+   "QH12T20_K1": 0.03890579702141839,
+   "D018545_L": 0.18545,
+   "CHYT20_L": 0.2,
+   "CHYT20_ANGLE": 0.0,
+   "CHYT20_K1": 0.0,
+   "D0200_L": 0.2,
+   "D03982L_L": 0.398247,
+   "QH13T20_L": 1.0291,
+   "QH13T20_K1": 0.039207806934336044,
+   "D01918_L": 0.1918,
+   "QH14T20_L": 1.0291,
+   "QH14T20_K1": 0.17740036197542125,
+   "QH15T20_L": 1.0291,
+   "QH15T20_K1": -0.42236472045218826,
+   "D01500_L": 0.15,
+   "D08500_L": 0.85,
+   "D46200_L": 4.62,
+   "D2890L_L": 2.890001,
+   "D70899L_L": 7.089999
+  },
+  "functions": {
+   "_funcs": {}
+  }
+ },
+ "_var_manager": [
+  [
+   "element_refs['ID_71329109_'].length",
+   "vars['ID_71329109__L']"
+  ],
+  [
+   "element_refs['D_3'].length",
+   "vars['D_3_L']"
+  ],
+  [
+   "element_refs['QE2756T5'].length",
+   "vars['QE2756T5_L']"
+  ],
+  [
+   "element_refs['QE2756T5'].k1",
+   "vars['QE2756T5_K1']"
+  ],
+  [
+   "element_refs['D_4'].length",
+   "vars['D_4_L']"
+  ],
+  [
+   "element_refs['CEY2756T5'].length_straight",
+   "vars['CEY2756T5_L']"
+  ],
+  [
+   "element_refs['CEY2756T5'].angle",
+   "vars['CEY2756T5_ANGLE']"
+  ],
+  [
+   "element_refs['CEY2756T5'].k1",
+   "vars['CEY2756T5_K1']"
+  ],
+  [
+   "element_refs['D_5'].length",
+   "vars['D_5_L']"
+  ],
+  [
+   "element_refs['QE2766T5'].length",
+   "vars['QE2766T5_L']"
+  ],
+  [
+   "element_refs['QE2766T5'].k1",
+   "vars['QE2766T5_K1']"
+  ],
+  [
+   "element_refs['CEX2766T5'].length_straight",
+   "vars['CEX2766T5_L']"
+  ],
+  [
+   "element_refs['CEX2766T5'].angle",
+   "vars['CEX2766T5_ANGLE']"
+  ],
+  [
+   "element_refs['CEX2766T5'].k1",
+   "vars['CEX2766T5_K1']"
+  ],
+  [
+   "element_refs['QE2776T5'].length",
+   "vars['QE2776T5_L']"
+  ],
+  [
+   "element_refs['QE2776T5'].k1",
+   "vars['QE2776T5_K1']"
+  ],
+  [
+   "element_refs['CEX2776T5'].length_straight",
+   "vars['CEX2776T5_L']"
+  ],
+  [
+   "element_refs['CEX2776T5'].angle",
+   "vars['CEX2776T5_ANGLE']"
+  ],
+  [
+   "element_refs['CEX2776T5'].k1",
+   "vars['CEX2776T5_K1']"
+  ],
+  [
+   "element_refs['QE2786T5'].length",
+   "vars['QE2786T5_L']"
+  ],
+  [
+   "element_refs['QE2786T5'].k1",
+   "vars['QE2786T5_K1']"
+  ],
+  [
+   "element_refs['CEY2786T5'].length_straight",
+   "vars['CEY2786T5_L']"
+  ],
+  [
+   "element_refs['CEY2786T5'].angle",
+   "vars['CEY2786T5_ANGLE']"
+  ],
+  [
+   "element_refs['CEY2786T5'].k1",
+   "vars['CEY2786T5_K1']"
+  ],
+  [
+   "element_refs['D_14'].length",
+   "vars['D_14_L']"
+  ],
+  [
+   "element_refs['D_15'].length",
+   "vars['D_15_L']"
+  ],
+  [
+   "element_refs['QH2804T5'].length",
+   "vars['QH2804T5_L']"
+  ],
+  [
+   "element_refs['QH2804T5'].k1",
+   "vars['QH2804T5_K1']"
+  ],
+  [
+   "element_refs['D_16'].length",
+   "vars['D_16_L']"
+  ],
+  [
+   "element_refs['CHX2805T5'].length_straight",
+   "vars['CHX2805T5_L']"
+  ],
+  [
+   "element_refs['CHX2805T5'].angle",
+   "vars['CHX2805T5_ANGLE']"
+  ],
+  [
+   "element_refs['CHX2805T5'].k1",
+   "vars['CHX2805T5_K1']"
+  ],
+  [
+   "element_refs['D_17'].length",
+   "vars['D_17_L']"
+  ],
+  [
+   "element_refs['QH2807T5'].length",
+   "vars['QH2807T5_L']"
+  ],
+  [
+   "element_refs['QH2807T5'].k1",
+   "vars['QH2807T5_K1']"
+  ],
+  [
+   "element_refs['CHY2808T5'].length_straight",
+   "vars['CHY2808T5_L']"
+  ],
+  [
+   "element_refs['CHY2808T5'].angle",
+   "vars['CHY2808T5_ANGLE']"
+  ],
+  [
+   "element_refs['CHY2808T5'].k1",
+   "vars['CHY2808T5_K1']"
+  ],
+  [
+   "element_refs['D_20'].length",
+   "vars['D_20_L']"
+  ],
+  [
+   "element_refs['CHX2817T5'].length_straight",
+   "vars['CHX2817T5_L']"
+  ],
+  [
+   "element_refs['CHX2817T5'].angle",
+   "vars['CHX2817T5_ANGLE']"
+  ],
+  [
+   "element_refs['CHX2817T5'].k1",
+   "vars['CHX2817T5_K1']"
+  ],
+  [
+   "element_refs['D_21'].length",
+   "vars['D_21_L']"
+  ],
+  [
+   "element_refs['CHY2818T5'].length_straight",
+   "vars['CHY2818T5_L']"
+  ],
+  [
+   "element_refs['CHY2818T5'].angle",
+   "vars['CHY2818T5_ANGLE']"
+  ],
+  [
+   "element_refs['CHY2818T5'].k1",
+   "vars['CHY2818T5_K1']"
+  ],
+  [
+   "element_refs['D_22'].length",
+   "vars['D_22_L']"
+  ],
+  [
+   "element_refs['D_23'].length",
+   "vars['D_23_L']"
+  ],
+  [
+   "element_refs['QH2819T5'].length",
+   "vars['QH2819T5_L']"
+  ],
+  [
+   "element_refs['QH2819T5'].k1",
+   "vars['QH2819T5_K1']"
+  ],
+  [
+   "element_refs['ID_73522913_'].length",
+   "vars['ID_73522913__L']"
+  ],
+  [
+   "element_refs['BE2821T5'].length",
+   "vars['BE2821T5_L']"
+  ],
+  [
+   "element_refs['BE2821T5'].angle",
+   "vars['BE2821T5_ANGLE']"
+  ],
+  [
+   "element_refs['BE2821T5'].edge_entry_angle",
+   "vars['BE2821T5_E1']"
+  ],
+  [
+   "element_refs['BE2821T5'].edge_exit_angle",
+   "vars['BE2821T5_E2']"
+  ],
+  [
+   "element_refs['BE2821T5'].k1",
+   "vars['BE2821T5_K1']"
+  ],
+  [
+   "element_refs['D_26'].length",
+   "vars['D_26_L']"
+  ],
+  [
+   "element_refs['QM2824T5'].length",
+   "vars['QM2824T5_L']"
+  ],
+  [
+   "element_refs['QM2824T5'].k1",
+   "vars['QM2824T5_K1']"
+  ],
+  [
+   "element_refs['D_27'].length",
+   "vars['D_27_L']"
+  ],
+  [
+   "element_refs['D_28'].length",
+   "vars['D_28_L']"
+  ],
+  [
+   "element_refs['QM2829T5'].length",
+   "vars['QM2829T5_L']"
+  ],
+  [
+   "element_refs['QM2829T5'].k1",
+   "vars['QM2829T5_K1']"
+  ],
+  [
+   "element_refs['D_29'].length",
+   "vars['D_29_L']"
+  ],
+  [
+   "element_refs['CHX2830T5'].length_straight",
+   "vars['CHX2830T5_L']"
+  ],
+  [
+   "element_refs['CHX2830T5'].angle",
+   "vars['CHX2830T5_ANGLE']"
+  ],
+  [
+   "element_refs['CHX2830T5'].k1",
+   "vars['CHX2830T5_K1']"
+  ],
+  [
+   "element_refs['D_30'].length",
+   "vars['D_30_L']"
+  ],
+  [
+   "element_refs['SAOX2831T5'].length",
+   "vars['SAOX2831T5_L']"
+  ],
+  [
+   "element_refs['SAOX2831T5'].k2",
+   "vars['SAOX2831T5_K2']"
+  ],
+  [
+   "element_refs['D_31'].length",
+   "vars['D_31_L']"
+  ],
+  [
+   "element_refs['QM2834T5'].length",
+   "vars['QM2834T5_L']"
+  ],
+  [
+   "element_refs['QM2834T5'].k1",
+   "vars['QM2834T5_K1']"
+  ],
+  [
+   "element_refs['CHY2835T5'].length_straight",
+   "vars['CHY2835T5_L']"
+  ],
+  [
+   "element_refs['CHY2835T5'].angle",
+   "vars['CHY2835T5_ANGLE']"
+  ],
+  [
+   "element_refs['CHY2835T5'].k1",
+   "vars['CHY2835T5_K1']"
+  ],
+  [
+   "element_refs['D_34'].length",
+   "vars['D_34_L']"
+  ],
+  [
+   "element_refs['SAO2836T5'].length",
+   "vars['SAO2836T5_L']"
+  ],
+  [
+   "element_refs['SAO2836T5'].k2",
+   "vars['SAO2836T5_K2']"
+  ],
+  [
+   "element_refs['D_35'].length",
+   "vars['D_35_L']"
+  ],
+  [
+   "element_refs['CHX2838T5'].length_straight",
+   "vars['CHX2838T5_L']"
+  ],
+  [
+   "element_refs['CHX2838T5'].angle",
+   "vars['CHX2838T5_ANGLE']"
+  ],
+  [
+   "element_refs['CHX2838T5'].k1",
+   "vars['CHX2838T5_K1']"
+  ],
+  [
+   "element_refs['D_36'].length",
+   "vars['D_36_L']"
+  ],
+  [
+   "element_refs['QM2839T5'].length",
+   "vars['QM2839T5_L']"
+  ],
+  [
+   "element_refs['QM2839T5'].k1",
+   "vars['QM2839T5_K1']"
+  ],
+  [
+   "element_refs['D_38'].length",
+   "vars['D_38_L']"
+  ],
+  [
+   "element_refs['BE2841T5'].length",
+   "vars['BE2841T5_L']"
+  ],
+  [
+   "element_refs['BE2841T5'].angle",
+   "vars['BE2841T5_ANGLE']"
+  ],
+  [
+   "element_refs['BE2841T5'].edge_entry_angle",
+   "vars['BE2841T5_E1']"
+  ],
+  [
+   "element_refs['BE2841T5'].edge_exit_angle",
+   "vars['BE2841T5_E2']"
+  ],
+  [
+   "element_refs['BE2841T5'].k1",
+   "vars['BE2841T5_K1']"
+  ],
+  [
+   "element_refs['D_39'].length",
+   "vars['D_39_L']"
+  ],
+  [
+   "element_refs['QH2844T5'].length",
+   "vars['QH2844T5_L']"
+  ],
+  [
+   "element_refs['QH2844T5'].k1",
+   "vars['QH2844T5_K1']"
+  ],
+  [
+   "element_refs['CHY2845T5'].length_straight",
+   "vars['CHY2845T5_L']"
+  ],
+  [
+   "element_refs['CHY2845T5'].angle",
+   "vars['CHY2845T5_ANGLE']"
+  ],
+  [
+   "element_refs['CHY2845T5'].k1",
+   "vars['CHY2845T5_K1']"
+  ],
+  [
+   "element_refs['DExtraction'].length",
+   "vars['DExtraction_L']"
+  ],
+  [
+   "element_refs['BSECP2851T8'].length_straight",
+   "vars['BSECP2851T8_L']"
+  ],
+  [
+   "element_refs['BSECP2851T8'].angle",
+   "vars['BSECP2851T8_ANGLE']"
+  ],
+  [
+   "element_refs['BSECP2851T8'].k1",
+   "vars['BSECP2851T8_K1']"
+  ],
+  [
+   "element_refs['D00'].length",
+   "vars['D00_L']"
+  ],
+  [
+   "element_refs['QH2855T5_shift_X'].length_straight",
+   "vars['QH2855T5_shift_X_L']"
+  ],
+  [
+   "element_refs['QH2855T5_shift_X'].angle",
+   "vars['QH2855T5_shift_X_ANGLE']"
+  ],
+  [
+   "element_refs['QH2855T5_shift_X'].k1",
+   "vars['QH2855T5_shift_X_K1']"
+  ],
+  [
+   "element_refs['D020'].length",
+   "vars['D020_L']"
+  ],
+  [
+   "element_refs['QH2858T5_shift_X'].length_straight",
+   "vars['QH2858T5_shift_X_L']"
+  ],
+  [
+   "element_refs['QH2858T5_shift_X'].angle",
+   "vars['QH2858T5_shift_X_ANGLE']"
+  ],
+  [
+   "element_refs['QH2858T5_shift_X'].k1",
+   "vars['QH2858T5_shift_X_K1']"
+  ],
+  [
+   "element_refs['D022'].length",
+   "vars['D022_L']"
+  ],
+  [
+   "element_refs['KP2861T8'].length_straight",
+   "vars['KP2861T8_L']"
+  ],
+  [
+   "element_refs['KP2861T8'].angle",
+   "vars['KP2861T8_ANGLE']"
+  ],
+  [
+   "element_refs['KP2861T8'].k1",
+   "vars['KP2861T8_K1']"
+  ],
+  [
+   "element_refs['D1'].length",
+   "vars['D1_L']"
+  ],
+  [
+   "element_refs['KP2862T8'].length_straight",
+   "vars['KP2862T8_L']"
+  ],
+  [
+   "element_refs['KP2862T8'].angle",
+   "vars['KP2862T8_ANGLE']"
+  ],
+  [
+   "element_refs['KP2862T8'].k1",
+   "vars['KP2862T8_K1']"
+  ],
+  [
+   "element_refs['D2'].length",
+   "vars['D2_L']"
+  ],
+  [
+   "element_refs['KP2863T8'].length_straight",
+   "vars['KP2863T8_L']"
+  ],
+  [
+   "element_refs['KP2863T8'].angle",
+   "vars['KP2863T8_ANGLE']"
+  ],
+  [
+   "element_refs['KP2863T8'].k1",
+   "vars['KP2863T8_K1']"
+  ],
+  [
+   "element_refs['D3'].length",
+   "vars['D3_L']"
+  ],
+  [
+   "element_refs['KP2864T8'].length_straight",
+   "vars['KP2864T8_L']"
+  ],
+  [
+   "element_refs['KP2864T8'].angle",
+   "vars['KP2864T8_ANGLE']"
+  ],
+  [
+   "element_refs['KP2864T8'].k1",
+   "vars['KP2864T8_K1']"
+  ],
+  [
+   "element_refs['D4'].length",
+   "vars['D4_L']"
+  ],
+  [
+   "element_refs['KP2865T8'].length_straight",
+   "vars['KP2865T8_L']"
+  ],
+  [
+   "element_refs['KP2865T8'].angle",
+   "vars['KP2865T8_ANGLE']"
+  ],
+  [
+   "element_refs['KP2865T8'].k1",
+   "vars['KP2865T8_K1']"
+  ],
+  [
+   "element_refs['D5'].length",
+   "vars['D5_L']"
+  ],
+  [
+   "element_refs['BZ2876T8'].length",
+   "vars['BZ2876T8_L']"
+  ],
+  [
+   "element_refs['BZ2876T8'].angle",
+   "vars['BZ2876T8_ANGLE']"
+  ],
+  [
+   "element_refs['BZ2876T8'].edge_entry_angle",
+   "vars['BZ2876T8_E1']"
+  ],
+  [
+   "element_refs['BZ2876T8'].edge_exit_angle",
+   "vars['BZ2876T8_E2']"
+  ],
+  [
+   "element_refs['BZ2876T8'].k1",
+   "vars['BZ2876T8_K1']"
+  ],
+  [
+   "element_refs['D60'].length",
+   "vars['D60_L']"
+  ],
+  [
+   "element_refs['QE2878T5_shift_X'].length_straight",
+   "vars['QE2878T5_shift_X_L']"
+  ],
+  [
+   "element_refs['QE2878T5_shift_X'].angle",
+   "vars['QE2878T5_shift_X_ANGLE']"
+  ],
+  [
+   "element_refs['QE2878T5_shift_X'].k1",
+   "vars['QE2878T5_shift_X_K1']"
+  ],
+  [
+   "element_refs['D62'].length",
+   "vars['D62_L']"
+  ],
+  [
+   "element_refs['BZ2878T8'].length",
+   "vars['BZ2878T8_L']"
+  ],
+  [
+   "element_refs['BZ2878T8'].angle",
+   "vars['BZ2878T8_ANGLE']"
+  ],
+  [
+   "element_refs['BZ2878T8'].edge_entry_angle",
+   "vars['BZ2878T8_E1']"
+  ],
+  [
+   "element_refs['BZ2878T8'].edge_exit_angle",
+   "vars['BZ2878T8_E2']"
+  ],
+  [
+   "element_refs['BZ2878T8'].k1",
+   "vars['BZ2878T8_K1']"
+  ],
+  [
+   "element_refs['D7'].length",
+   "vars['D7_L']"
+  ],
+  [
+   "element_refs['BZ2880T8'].length",
+   "vars['BZ2880T8_L']"
+  ],
+  [
+   "element_refs['BZ2880T8'].angle",
+   "vars['BZ2880T8_ANGLE']"
+  ],
+  [
+   "element_refs['BZ2880T8'].edge_entry_angle",
+   "vars['BZ2880T8_E1']"
+  ],
+  [
+   "element_refs['BZ2880T8'].edge_exit_angle",
+   "vars['BZ2880T8_E2']"
+  ],
+  [
+   "element_refs['BZ2880T8'].k1",
+   "vars['BZ2880T8_K1']"
+  ],
+  [
+   "element_refs['D8'].length",
+   "vars['D8_L']"
+  ],
+  [
+   "element_refs['BZ2881T8'].length",
+   "vars['BZ2881T8_L']"
+  ],
+  [
+   "element_refs['BZ2881T8'].angle",
+   "vars['BZ2881T8_ANGLE']"
+  ],
+  [
+   "element_refs['BZ2881T8'].edge_entry_angle",
+   "vars['BZ2881T8_E1']"
+  ],
+  [
+   "element_refs['BZ2881T8'].edge_exit_angle",
+   "vars['BZ2881T8_E2']"
+  ],
+  [
+   "element_refs['BZ2881T8'].k1",
+   "vars['BZ2881T8_K1']"
+  ],
+  [
+   "element_refs['D9'].length",
+   "vars['D9_L']"
+  ],
+  [
+   "element_refs['QH2887T8'].length",
+   "vars['QH2887T8_L']"
+  ],
+  [
+   "element_refs['QH2887T8'].k1",
+   "vars['QH2887T8_K1']"
+  ],
+  [
+   "element_refs['D10'].length",
+   "vars['D10_L']"
+  ],
+  [
+   "element_refs['QH2890T8'].length",
+   "vars['QH2890T8_L']"
+  ],
+  [
+   "element_refs['QH2890T8'].k1",
+   "vars['QH2890T8_K1']"
+  ],
+  [
+   "element_refs['D11'].length",
+   "vars['D11_L']"
+  ],
+  [
+   "element_refs['QH2892T8'].length",
+   "vars['QH2892T8_L']"
+  ],
+  [
+   "element_refs['QH2892T8'].k1",
+   "vars['QH2892T8_K1']"
+  ],
+  [
+   "element_refs['D12'].length",
+   "vars['D12_L']"
+  ],
+  [
+   "element_refs['BE2899T8'].length",
+   "vars['BE2899T8_L']"
+  ],
+  [
+   "element_refs['BE2899T8'].angle",
+   "vars['BE2899T8_ANGLE']"
+  ],
+  [
+   "element_refs['BE2899T8'].edge_entry_angle",
+   "vars['BE2899T8_E1']"
+  ],
+  [
+   "element_refs['BE2899T8'].edge_exit_angle",
+   "vars['BE2899T8_E2']"
+  ],
+  [
+   "element_refs['BE2899T8'].k1",
+   "vars['BE2899T8_K1']"
+  ],
+  [
+   "element_refs['D13'].length",
+   "vars['D13_L']"
+  ],
+  [
+   "element_refs['QF2906T8'].length",
+   "vars['QF2906T8_L']"
+  ],
+  [
+   "element_refs['QF2906T8'].k1",
+   "vars['QF2906T8_K1']"
+  ],
+  [
+   "element_refs['D14'].length",
+   "vars['D14_L']"
+  ],
+  [
+   "element_refs['QF2911T8'].length",
+   "vars['QF2911T8_L']"
+  ],
+  [
+   "element_refs['QF2911T8'].k1",
+   "vars['QF2911T8_K1']"
+  ],
+  [
+   "element_refs['D15'].length",
+   "vars['D15_L']"
+  ],
+  [
+   "element_refs['QF2920T8'].length",
+   "vars['QF2920T8_L']"
+  ],
+  [
+   "element_refs['QF2920T8'].k1",
+   "vars['QF2920T8_K1']"
+  ],
+  [
+   "element_refs['D16'].length",
+   "vars['D16_L']"
+  ],
+  [
+   "element_refs['QF2925T8'].length",
+   "vars['QF2925T8_L']"
+  ],
+  [
+   "element_refs['QF2925T8'].k1",
+   "vars['QF2925T8_K1']"
+  ],
+  [
+   "element_refs['D17'].length",
+   "vars['D17_L']"
+  ],
+  [
+   "element_refs['BE2935T8'].length",
+   "vars['BE2935T8_L']"
+  ],
+  [
+   "element_refs['BE2935T8'].angle",
+   "vars['BE2935T8_ANGLE']"
+  ],
+  [
+   "element_refs['BE2935T8'].edge_entry_angle",
+   "vars['BE2935T8_E1']"
+  ],
+  [
+   "element_refs['BE2935T8'].edge_exit_angle",
+   "vars['BE2935T8_E2']"
+  ],
+  [
+   "element_refs['BE2935T8'].k1",
+   "vars['BE2935T8_K1']"
+  ],
+  [
+   "element_refs['D18'].length",
+   "vars['D18_L']"
+  ],
+  [
+   "element_refs['QH2941T8'].length",
+   "vars['QH2941T8_L']"
+  ],
+  [
+   "element_refs['QH2941T8'].k1",
+   "vars['QH2941T8_K1']"
+  ],
+  [
+   "element_refs['D19'].length",
+   "vars['D19_L']"
+  ],
+  [
+   "element_refs['QH2944T8'].length",
+   "vars['QH2944T8_L']"
+  ],
+  [
+   "element_refs['QH2944T8'].k1",
+   "vars['QH2944T8_K1']"
+  ],
+  [
+   "element_refs['D20'].length",
+   "vars['D20_L']"
+  ],
+  [
+   "element_refs['QH2946T8'].length",
+   "vars['QH2946T8_L']"
+  ],
+  [
+   "element_refs['QH2946T8'].k1",
+   "vars['QH2946T8_K1']"
+  ],
+  [
+   "element_refs['D21'].length",
+   "vars['D21_L']"
+  ],
+  [
+   "element_refs['BE2953T8'].length",
+   "vars['BE2953T8_L']"
+  ],
+  [
+   "element_refs['BE2953T8'].angle",
+   "vars['BE2953T8_ANGLE']"
+  ],
+  [
+   "element_refs['BE2953T8'].edge_entry_angle",
+   "vars['BE2953T8_E1']"
+  ],
+  [
+   "element_refs['BE2953T8'].edge_exit_angle",
+   "vars['BE2953T8_E2']"
+  ],
+  [
+   "element_refs['BE2953T8'].k1",
+   "vars['BE2953T8_K1']"
+  ],
+  [
+   "element_refs['D22'].length",
+   "vars['D22_L']"
+  ],
+  [
+   "element_refs['QF2955T8'].length",
+   "vars['QF2955T8_L']"
+  ],
+  [
+   "element_refs['QF2955T8'].k1",
+   "vars['QF2955T8_K1']"
+  ],
+  [
+   "element_refs['D23'].length",
+   "vars['D23_L']"
+  ],
+  [
+   "element_refs['QF2961T8'].length",
+   "vars['QF2961T8_L']"
+  ],
+  [
+   "element_refs['QF2961T8'].k1",
+   "vars['QF2961T8_K1']"
+  ],
+  [
+   "element_refs['D24'].length",
+   "vars['D24_L']"
+  ],
+  [
+   "element_refs['QF2981T8'].length",
+   "vars['QF2981T8_L']"
+  ],
+  [
+   "element_refs['QF2981T8'].k1",
+   "vars['QF2981T8_K1']"
+  ],
+  [
+   "element_refs['D25'].length",
+   "vars['D25_L']"
+  ],
+  [
+   "element_refs['QF2987T8'].length",
+   "vars['QF2987T8_L']"
+  ],
+  [
+   "element_refs['QF2987T8'].k1",
+   "vars['QF2987T8_K1']"
+  ],
+  [
+   "element_refs['DTransport'].length",
+   "vars['DTransport_L']"
+  ],
+  [
+   "element_refs['QE1T8'].length",
+   "vars['QE1T8_L']"
+  ],
+  [
+   "element_refs['QE1T8'].k1",
+   "vars['QE1T8_K1']"
+  ],
+  [
+   "element_refs['DFODO'].length",
+   "vars['DFODO_L']"
+  ],
+  [
+   "element_refs['QE2T8'].length",
+   "vars['QE2T8_L']"
+  ],
+  [
+   "element_refs['QE2T8'].k1",
+   "vars['QE2T8_K1']"
+  ],
+  [
+   "element_refs['QH11T20'].length",
+   "vars['QH11T20_L']"
+  ],
+  [
+   "element_refs['QH11T20'].k1",
+   "vars['QH11T20_K1']"
+  ],
+  [
+   "element_refs['D038545'].length",
+   "vars['D038545_L']"
+  ],
+  [
+   "element_refs['CHXT20'].length_straight",
+   "vars['CHXT20_L']"
+  ],
+  [
+   "element_refs['CHXT20'].angle",
+   "vars['CHXT20_ANGLE']"
+  ],
+  [
+   "element_refs['CHXT20'].k1",
+   "vars['CHXT20_K1']"
+  ],
+  [
+   "element_refs['QH12T20'].length",
+   "vars['QH12T20_L']"
+  ],
+  [
+   "element_refs['QH12T20'].k1",
+   "vars['QH12T20_K1']"
+  ],
+  [
+   "element_refs['D018545'].length",
+   "vars['D018545_L']"
+  ],
+  [
+   "element_refs['CHYT20'].length_straight",
+   "vars['CHYT20_L']"
+  ],
+  [
+   "element_refs['CHYT20'].angle",
+   "vars['CHYT20_ANGLE']"
+  ],
+  [
+   "element_refs['CHYT20'].k1",
+   "vars['CHYT20_K1']"
+  ],
+  [
+   "element_refs['D0200'].length",
+   "vars['D0200_L']"
+  ],
+  [
+   "element_refs['D03982L'].length",
+   "vars['D03982L_L']"
+  ],
+  [
+   "element_refs['QH13T20'].length",
+   "vars['QH13T20_L']"
+  ],
+  [
+   "element_refs['QH13T20'].k1",
+   "vars['QH13T20_K1']"
+  ],
+  [
+   "element_refs['D01918'].length",
+   "vars['D01918_L']"
+  ],
+  [
+   "element_refs['QH14T20'].length",
+   "vars['QH14T20_L']"
+  ],
+  [
+   "element_refs['QH14T20'].k1",
+   "vars['QH14T20_K1']"
+  ],
+  [
+   "element_refs['QH15T20'].length",
+   "vars['QH15T20_L']"
+  ],
+  [
+   "element_refs['QH15T20'].k1",
+   "vars['QH15T20_K1']"
+  ],
+  [
+   "element_refs['D01500'].length",
+   "vars['D01500_L']"
+  ],
+  [
+   "element_refs['D08500'].length",
+   "vars['D08500_L']"
+  ],
+  [
+   "element_refs['D46200'].length",
+   "vars['D46200_L']"
+  ],
+  [
+   "element_refs['D2890L'].length",
+   "vars['D2890L_L']"
+  ],
+  [
+   "element_refs['D70899L'].length",
+   "vars['D70899L_L']"
+  ]
+ ],
+ "metadata": {},
+ "xsuite_data_type": "Environment",
+ "lines": {
+  "XTD8": {
+   "__class__": "Line",
+   "element_names": [
+    "ID_71329109_",
+    "D_3",
+    "QE2756T5",
+    "D_4",
+    "CEY2756T5",
+    "D_5",
+    "D_3",
+    "QE2766T5",
+    "D_4",
+    "CEX2766T5",
+    "D_5",
+    "D_3",
+    "QE2776T5",
+    "D_4",
+    "CEX2776T5",
+    "D_5",
+    "D_3",
+    "QE2786T5",
+    "D_4",
+    "CEY2786T5",
+    "D_14",
+    "D_15",
+    "QH2804T5",
+    "D_16",
+    "CHX2805T5",
+    "D_17",
+    "D_15",
+    "QH2807T5",
+    "D_16",
+    "CHY2808T5",
+    "D_20",
+    "CHX2817T5",
+    "D_21",
+    "CHY2818T5",
+    "D_22",
+    "D_23",
+    "QH2819T5",
+    "ID_73522913_",
+    "BE2821T5",
+    "D_26",
+    "QM2824T5",
+    "D_27",
+    "D_28",
+    "QM2829T5",
+    "D_29",
+    "CHX2830T5",
+    "D_30",
+    "SAOX2831T5",
+    "D_31",
+    "D_28",
+    "QM2834T5",
+    "D_29",
+    "CHY2835T5",
+    "D_34",
+    "SAO2836T5",
+    "D_35",
+    "CHX2838T5",
+    "D_36",
+    "D_28",
+    "QM2839T5",
+    "D_38",
+    "BE2841T5",
+    "D_39",
+    "D_15",
+    "QH2844T5",
+    "D_16",
+    "CHY2845T5",
+    "DExtraction",
+    "BSECP2851T8",
+    "D00",
+    "QH2855T5_shift_X",
+    "D020",
+    "QH2858T5_shift_X",
+    "D022",
+    "KP2861T8",
+    "D1",
+    "KP2862T8",
+    "D2",
+    "KP2863T8",
+    "D3",
+    "KP2864T8",
+    "D4",
+    "KP2865T8",
+    "D5",
+    "BZ2876T8",
+    "D60",
+    "QE2878T5_shift_X",
+    "D62",
+    "BZ2878T8",
+    "D7",
+    "BZ2880T8",
+    "D8",
+    "BZ2881T8",
+    "D9",
+    "QH2887T8",
+    "D10",
+    "QH2890T8",
+    "D11",
+    "QH2892T8",
+    "D12",
+    "BE2899T8",
+    "D13",
+    "QF2906T8",
+    "D14",
+    "QF2911T8",
+    "D15",
+    "QF2920T8",
+    "D16",
+    "QF2925T8",
+    "D17",
+    "BE2935T8",
+    "D18",
+    "QH2941T8",
+    "D19",
+    "QH2944T8",
+    "D20",
+    "QH2946T8",
+    "D21",
+    "BE2953T8",
+    "D22",
+    "QF2955T8",
+    "D23",
+    "QF2961T8",
+    "D24",
+    "QF2981T8",
+    "D25",
+    "QF2987T8",
+    "DTransport",
+    "QE1T8",
+    "DFODO",
+    "QE2T8",
+    "DFODO",
+    "QE1T8",
+    "DFODO",
+    "QE2T8",
+    "DFODO",
+    "QE1T8",
+    "DFODO",
+    "QE2T8",
+    "DFODO",
+    "QE1T8",
+    "DFODO",
+    "QE2T8",
+    "DFODO",
+    "QH11T20",
+    "D038545",
+    "CHXT20",
+    "D038545",
+    "QH12T20",
+    "D018545",
+    "CHYT20",
+    "D0200",
+    "D03982L",
+    "CHXT20",
+    "D0200",
+    "CHYT20",
+    "D0200",
+    "QH13T20",
+    "D01918",
+    "QH14T20",
+    "D01918",
+    "QH14T20",
+    "D01918",
+    "QH15T20",
+    "D01500",
+    "D08500",
+    "D46200",
+    "D2890L",
+    "D70899L"
+   ],
+   "config": {
+    "XTRACK_MULTIPOLE_NO_SYNRAD": true,
+    "XFIELDS_BB3D_NO_BEAMSTR": true,
+    "XFIELDS_BB3D_NO_BHABHA": true,
+    "XTRACK_GLOBAL_XY_LIMIT": 1.0
+   },
+   "_extra_config": {
+    "skip_end_turn_actions": false,
+    "reset_s_at_end_turn": true,
+    "matrix_responsiveness_tol": 1e-15,
+    "matrix_stability_tol": 0.002,
+    "dt_update_time_dependent_vars": 0.0,
+    "_t_last_update_time_dependent_vars": null,
+    "_radiation_model": null,
+    "_beamstrahlung_model": null,
+    "_bhabha_model": null,
+    "_spin_model": null,
+    "_needs_rng": false,
+    "enable_time_dependent_vars": false,
+    "twiss_default": {},
+    "steering_monitors_x": null,
+    "steering_monitors_y": null,
+    "steering_correctors_x": null,
+    "steering_correctors_y": null,
+    "corrector_limits_x": null,
+    "corrector_limits_y": null,
+    "end_compose_on_reload": true
+   },
+   "mode": "normal",
+   "composer": {
+    "__class__": "Builder",
+    "components": [
+     "ID_71329109_",
+     "D_3",
+     "QE2756T5",
+     "D_4",
+     "CEY2756T5",
+     "D_5",
+     "D_3",
+     "QE2766T5",
+     "D_4",
+     "CEX2766T5",
+     "D_5",
+     "D_3",
+     "QE2776T5",
+     "D_4",
+     "CEX2776T5",
+     "D_5",
+     "D_3",
+     "QE2786T5",
+     "D_4",
+     "CEY2786T5",
+     "D_14",
+     "D_15",
+     "QH2804T5",
+     "D_16",
+     "CHX2805T5",
+     "D_17",
+     "D_15",
+     "QH2807T5",
+     "D_16",
+     "CHY2808T5",
+     "D_20",
+     "CHX2817T5",
+     "D_21",
+     "CHY2818T5",
+     "D_22",
+     "D_23",
+     "QH2819T5",
+     "ID_73522913_",
+     "BE2821T5",
+     "D_26",
+     "QM2824T5",
+     "D_27",
+     "D_28",
+     "QM2829T5",
+     "D_29",
+     "CHX2830T5",
+     "D_30",
+     "SAOX2831T5",
+     "D_31",
+     "D_28",
+     "QM2834T5",
+     "D_29",
+     "CHY2835T5",
+     "D_34",
+     "SAO2836T5",
+     "D_35",
+     "CHX2838T5",
+     "D_36",
+     "D_28",
+     "QM2839T5",
+     "D_38",
+     "BE2841T5",
+     "D_39",
+     "D_15",
+     "QH2844T5",
+     "D_16",
+     "CHY2845T5",
+     "DExtraction",
+     "BSECP2851T8",
+     "D00",
+     "QH2855T5_shift_X",
+     "D020",
+     "QH2858T5_shift_X",
+     "D022",
+     "KP2861T8",
+     "D1",
+     "KP2862T8",
+     "D2",
+     "KP2863T8",
+     "D3",
+     "KP2864T8",
+     "D4",
+     "KP2865T8",
+     "D5",
+     "BZ2876T8",
+     "D60",
+     "QE2878T5_shift_X",
+     "D62",
+     "BZ2878T8",
+     "D7",
+     "BZ2880T8",
+     "D8",
+     "BZ2881T8",
+     "D9",
+     "QH2887T8",
+     "D10",
+     "QH2890T8",
+     "D11",
+     "QH2892T8",
+     "D12",
+     "BE2899T8",
+     "D13",
+     "QF2906T8",
+     "D14",
+     "QF2911T8",
+     "D15",
+     "QF2920T8",
+     "D16",
+     "QF2925T8",
+     "D17",
+     "BE2935T8",
+     "D18",
+     "QH2941T8",
+     "D19",
+     "QH2944T8",
+     "D20",
+     "QH2946T8",
+     "D21",
+     "BE2953T8",
+     "D22",
+     "QF2955T8",
+     "D23",
+     "QF2961T8",
+     "D24",
+     "QF2981T8",
+     "D25",
+     "QF2987T8",
+     "DTransport",
+     "QE1T8",
+     "DFODO",
+     "QE2T8",
+     "DFODO",
+     "QE1T8",
+     "DFODO",
+     "QE2T8",
+     "DFODO",
+     "QE1T8",
+     "DFODO",
+     "QE2T8",
+     "DFODO",
+     "QE1T8",
+     "DFODO",
+     "QE2T8",
+     "DFODO",
+     "QH11T20",
+     "D038545",
+     "CHXT20",
+     "D038545",
+     "QH12T20",
+     "D018545",
+     "CHYT20",
+     "D0200",
+     "D03982L",
+     "CHXT20",
+     "D0200",
+     "CHYT20",
+     "D0200",
+     "QH13T20",
+     "D01918",
+     "QH14T20",
+     "D01918",
+     "QH14T20",
+     "D01918",
+     "QH15T20",
+     "D01500",
+     "D08500",
+     "D46200",
+     "D2890L",
+     "D70899L"
+    ],
+    "refer": "end",
+    "s_tol": 1e-06
+   },
+   "particle_ref": {
+    "rvv": [
+     1.0
+    ],
+    "zeta": [
+     0.0
+    ],
+    "q0": -1.0,
+    "p0c": [
+     17.50000000746057
+    ],
+    "ptau": [
+     0.0
+    ],
+    "at_element": [
+     0
+    ],
+    "rpp": [
+     1.0
+    ],
+    "spin_x": [
+     0.0
+    ],
+    "beta0": [
+     3.424664570680289e-05
+    ],
+    "delta": [
+     0.0
+    ],
+    "weight": [
+     1.0
+    ],
+    "_rng_s3": [
+     0
+    ],
+    "anomalous_magnetic_moment": [
+     0.0
+    ],
+    "parent_particle_id": [
+     0
+    ],
+    "spin_y": [
+     0.0
+    ],
+    "gamma0": [
+     1.0000000005864165
+    ],
+    "mass0": 510998.95,
+    "particle_id": [
+     0
+    ],
+    "ax": [
+     0.0
+    ],
+    "_rng_s4": [
+     0
+    ],
+    "pdg_id": [
+     0
+    ],
+    "charge_ratio": [
+     1.0
+    ],
+    "state": [
+     1
+    ],
+    "spin_z": [
+     0.0
+    ],
+    "_rng_s1": [
+     0
+    ],
+    "px": [
+     0.0
+    ],
+    "y": [
+     0.0
+    ],
+    "start_tracking_at_element": -1,
+    "ay": [
+     0.0
+    ],
+    "x": [
+     0.0
+    ],
+    "py": [
+     0.0
+    ],
+    "_rng_s2": [
+     0
+    ],
+    "at_turn": [
+     0
+    ],
+    "s": [
+     0.0
+    ],
+    "chi": [
+     1.0
+    ]
+   },
+   "env_particles": {},
+   "metadata": {}
+  }
+ },
+ "particles": {}
+}
