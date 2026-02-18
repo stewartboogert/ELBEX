@@ -47,14 +47,19 @@ def plotR56(tws, ocelotInput, label='R56', unit='mm', factor=1e3, bdsimpath=None
 
 def plotK1(tws, ocelotInput, label='K1', unit='m$^{-2}$', factor=1, bdsimpath=None,
            figsize=[12, 3], xlim=None, ylim=None, width=2):
-    s = []
-    for elem in ocelotInput.cell:
+    s = getDataFromList(tws, 's')[1:]
+    K1 = []
+    for tw in tws[1:]:
         found = False
-        for tw in tws:
-            if tw.id == elem.id and found is False:
-                s.append(tw.s)
+        for elem in ocelotInput.cell:
+            if tw.id == elem.id and not found:
                 found = True
-    K1 = getDataFromList(ocelotInput.cell, 'k1')
+                try:
+                    K1.append(elem.k1)
+                except:
+                    K1.append(0)
+        if not found:
+            K1.append(0)
 
     _plt.figure(figsize=figsize)
     _plt.bar(s, K1 * factor, color='C0', label=r'${}$'.format(label), width=width)
@@ -66,7 +71,6 @@ def plotK1(tws, ocelotInput, label='K1', unit='m$^{-2}$', factor=1, bdsimpath=No
     if bdsimpath is not None:
         _bd.Plot.AddMachineLatticeFromSurveyToFigure(_plt.gcf(), bdsimpath)
     _plt.xlim(xlim)
-
 
 def plotBeta(tws, unit='m', factor=1, **args):
     plotTwissXYAlongS(tws, x='beta_x', y='beta_y', label=r'\beta', unit=unit, factor=factor, **args)
