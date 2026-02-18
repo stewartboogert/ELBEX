@@ -2,7 +2,7 @@ from ocelot import *
 
 #Initial Twiss parameters
 tws0 = Twiss()
-tws0._E = 17.50000000746057
+tws0._E = 17.5
 tws0._beta_x = 45.844278111396584
 tws0._beta_y = 42.542767032006
 tws0._alpha_x = 1.201808970069004
@@ -160,21 +160,42 @@ chyt20b = RBend(l=0.2, eid='CHYT20')
 saox2831t5 = Sextupole(l=0.3164, k2=-16.23261694, eid='SAOX2831T5')
 sao2836t5 = Sextupole(l=0.3164, k2=-5.755372945998736, eid='SAO2836T5')
 
+# Markers
+bpma2756t5 = Marker(eid='BPMA2756T5')
+bpma2766t5 = Marker(eid='BPMA2766T5')
+bpma2776t5 = Marker(eid='BPMA2776T5')
+bpma2786t5 = Marker(eid='BPMA2786T5')
+bpma2804t5 = Marker(eid='BPMA2804T5')
+bpma2807t5 = Marker(eid='BPMA2807T5')
+bpma2818t5 = Marker(eid='BPMA2818T5')
+bpma2828t5 = Marker(eid='BPMA2828T5')
+bpma2833t5 = Marker(eid='BPMA2833T5')
+bpma2838t5 = Marker(eid='BPMA2838T5')
+bpma2843t5 = Marker(eid='BPMA2843T5')
+bpmat20a = Marker(eid='BPMAT20')
+bpmat20b = Marker(eid='BPMAT20')
+targetluxet20 = Marker(eid='TARGETLUXET20')
+dump1luxet20 = Marker(eid='DUMP1LUXET20')
+ipluxet20 = Marker(eid='IPLUXET20')
+dump2luxet20 = Marker(eid='DUMP2LUXET20')
+
 # Lattice 
-cell = (id_71329109_, d_3, qe2756t5, d_4, cey2756t5, d_5, d_3, qe2766t5, d_4, 
-cex2766t5, d_5, d_3, qe2776t5, d_4, cex2776t5, d_5, d_3, qe2786t5, d_4, 
-cey2786t5, d_14, d_15, qh2804t5, d_16, chx2805t5, d_17, d_15, qh2807t5, d_16, 
-chy2808t5, d_20, chx2817t5, d_21, chy2818t5, d_22, d_23, qh2819t5, id_73522913_, be2821t5, 
-d_26, qm2824t5, d_27, d_28, qm2829t5, d_29, chx2830t5, d_30, saox2831t5, d_31, 
-d_28, qm2834t5, d_29, chy2835t5, d_34, sao2836t5, d_35, chx2838t5, d_36, d_28, 
-qm2839t5, d_38, be2841t5, d_39, d_15, qh2844t5, d_16, chy2845t5, dextraction, bsecp2851t8, 
-d00, qh2855t5_shift_x, d020, qh2858t5_shift_x, d022, kp2861t8, d1, kp2862t8, d2, kp2863t8, 
-d3, kp2864t8, d4, kp2865t8, d5, bz2876t8, d60, qe2878t5_shift_x, d62, bz2878t8, 
-d7, bz2880t8, d8, bz2881t8, d9, qh2887t8, d10, qh2890t8, d11, qh2892t8, 
-d12, be2899t8, d13, qf2906t8, d14, qf2911t8, d15, qf2920t8, d16, qf2925t8, 
-d17, be2935t8, d18, qh2941t8, d19, qh2944t8, d20, qh2946t8, d21, be2953t8, 
-d22, qf2955t8, d23, qf2961t8, d24, qf2981t8, d25, qf2987t8, dtransport, qe1t8a, 
-dfodo, qe2t8a, dfodo, qe1t8b, dfodo, qe2t8b, dfodo, qe1t8c, dfodo, qe2t8c, 
-dfodo, qe1t8d, dfodo, qe2t8d, dfodo, qh11t20, d038545, chxt20a, d038545, qh12t20, 
-d018545, chyt20a, d0200, d03982l, chxt20b, d0200, chyt20b, d0200, qh13t20, d01918, 
-qh14t20a, d01918, qh14t20b, d01918, qh15t20, d01500, d08500, d46200, d2890l, d70899l)
+cell = (id_71329109_, bpma2756t5, d_3, qe2756t5, d_4, cey2756t5, d_5, bpma2766t5, d_3, 
+qe2766t5, d_4, cex2766t5, d_5, bpma2776t5, d_3, qe2776t5, d_4, cex2776t5, d_5, 
+bpma2786t5, d_3, qe2786t5, d_4, cey2786t5, d_14, bpma2804t5, d_15, qh2804t5, d_16, 
+chx2805t5, d_17, bpma2807t5, d_15, qh2807t5, d_16, chy2808t5, d_20, chx2817t5, d_21, 
+chy2818t5, d_22, bpma2818t5, d_23, qh2819t5, id_73522913_, be2821t5, d_26, qm2824t5, d_27, 
+bpma2828t5, d_28, qm2829t5, d_29, chx2830t5, d_30, saox2831t5, d_31, bpma2833t5, d_28, 
+qm2834t5, d_29, chy2835t5, d_34, sao2836t5, d_35, chx2838t5, d_36, bpma2838t5, d_28, 
+qm2839t5, d_38, be2841t5, d_39, bpma2843t5, d_15, qh2844t5, d_16, chy2845t5, dextraction, 
+bsecp2851t8, d00, qh2855t5_shift_x, d020, qh2858t5_shift_x, d022, kp2861t8, d1, kp2862t8, d2, 
+kp2863t8, d3, kp2864t8, d4, kp2865t8, d5, bz2876t8, d60, qe2878t5_shift_x, d62, 
+bz2878t8, d7, bz2880t8, d8, bz2881t8, d9, qh2887t8, d10, qh2890t8, d11, 
+qh2892t8, d12, be2899t8, d13, qf2906t8, d14, qf2911t8, d15, qf2920t8, d16, 
+qf2925t8, d17, be2935t8, d18, qh2941t8, d19, qh2944t8, d20, qh2946t8, d21, 
+be2953t8, d22, qf2955t8, d23, qf2961t8, d24, qf2981t8, d25, qf2987t8, dtransport, 
+qe1t8a, dfodo, qe2t8a, dfodo, qe1t8b, dfodo, qe2t8b, dfodo, qe1t8c, dfodo, 
+qe2t8c, dfodo, qe1t8d, dfodo, qe2t8d, dfodo, qh11t20, d038545, chxt20a, d038545, 
+qh12t20, d018545, chyt20a, d0200, bpmat20a, d03982l, chxt20b, d0200, chyt20b, d0200, 
+qh13t20, d01918, qh14t20a, d01918, qh14t20b, d01918, qh15t20, d01500, bpmat20b, d08500, 
+targetluxet20, d46200, dump1luxet20, d2890l, ipluxet20, d70899l, dump2luxet20)

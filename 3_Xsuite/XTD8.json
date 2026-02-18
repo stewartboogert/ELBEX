@@ -6,15 +6,18 @@
    "__class__": "Drift",
    "length": 12.39
   },
+  "BPMA2756T5": {
+   "__class__": "Marker"
+  },
   "D_3": {
    "__class__": "Drift",
    "length": 0.205
   },
   "QE2756T5": {
    "__class__": "Quadrupole",
-   "length": 0.24,
    "k1": -0.21551678190000004,
-   "order": 5
+   "order": 5,
+   "length": 0.24
   },
   "D_4": {
    "__class__": "Drift",
@@ -22,63 +25,75 @@
   },
   "CEY2756T5": {
    "__class__": "RBend",
-   "rot_s_rad": 1.5707963267948966,
-   "length_straight": 0.1,
    "order": 5,
    "length": 0.1,
    "rbend_model": "adaptive",
+   "length_straight": 0.1,
+   "rot_s_rad": 1.5707963267948966,
    "angle": 0.0
   },
   "D_5": {
    "__class__": "Drift",
    "length": 9.315
   },
+  "BPMA2766T5": {
+   "__class__": "Marker"
+  },
   "QE2766T5": {
    "__class__": "Quadrupole",
-   "length": 0.24,
    "k1": 0.1255484698,
-   "order": 5
+   "order": 5,
+   "length": 0.24
   },
   "CEX2766T5": {
    "__class__": "RBend",
-   "length_straight": 0.1,
    "order": 5,
    "length": 0.1,
    "rbend_model": "adaptive",
+   "length_straight": 0.1,
    "angle": 0.0
+  },
+  "BPMA2776T5": {
+   "__class__": "Marker"
   },
   "QE2776T5": {
    "__class__": "Quadrupole",
-   "length": 0.24,
    "k1": 0.133219012,
-   "order": 5
+   "order": 5,
+   "length": 0.24
   },
   "CEX2776T5": {
    "__class__": "RBend",
-   "length_straight": 0.1,
    "order": 5,
    "length": 0.1,
    "rbend_model": "adaptive",
+   "length_straight": 0.1,
    "angle": 0.0
+  },
+  "BPMA2786T5": {
+   "__class__": "Marker"
   },
   "QE2786T5": {
    "__class__": "Quadrupole",
-   "length": 0.24,
    "k1": -0.2117153227,
-   "order": 5
+   "order": 5,
+   "length": 0.24
   },
   "CEY2786T5": {
    "__class__": "RBend",
-   "rot_s_rad": 1.5707963267948966,
-   "length_straight": 0.1,
    "order": 5,
    "length": 0.1,
    "rbend_model": "adaptive",
+   "length_straight": 0.1,
+   "rot_s_rad": 1.5707963267948966,
    "angle": 0.0
   },
   "D_14": {
    "__class__": "Drift",
    "length": 17.095
+  },
+  "BPMA2804T5": {
+   "__class__": "Marker"
   },
   "D_15": {
    "__class__": "Drift",
@@ -86,9 +101,9 @@
   },
   "QH2804T5": {
    "__class__": "Quadrupole",
-   "length": 1.0291,
    "k1": 0.19652570639976683,
-   "order": 5
+   "order": 5,
+   "length": 1.0291
   },
   "D_16": {
    "__class__": "Drift",
@@ -96,29 +111,32 @@
   },
   "CHX2805T5": {
    "__class__": "RBend",
-   "length_straight": 0.2,
    "order": 5,
    "length": 0.2,
    "rbend_model": "adaptive",
+   "length_straight": 0.2,
    "angle": 0.0
   },
   "D_17": {
    "__class__": "Drift",
    "length": 1.545
   },
+  "BPMA2807T5": {
+   "__class__": "Marker"
+  },
   "QH2807T5": {
    "__class__": "Quadrupole",
-   "length": 1.0291,
    "k1": -0.1965228316995433,
-   "order": 5
+   "order": 5,
+   "length": 1.0291
   },
   "CHY2808T5": {
    "__class__": "RBend",
-   "rot_s_rad": 1.5707963267948966,
-   "length_straight": 0.2,
    "order": 5,
    "length": 0.2,
    "rbend_model": "adaptive",
+   "length_straight": 0.2,
+   "rot_s_rad": 1.5707963267948966,
    "angle": 0.0
   },
   "D_20": {
@@ -127,10 +145,10 @@
   },
   "CHX2817T5": {
    "__class__": "RBend",
-   "length_straight": 0.2,
    "order": 5,
    "length": 0.2,
    "rbend_model": "adaptive",
+   "length_straight": 0.2,
    "angle": 0.0
   },
   "D_21": {
@@ -139,16 +157,19 @@
   },
   "CHY2818T5": {
    "__class__": "RBend",
-   "rot_s_rad": 1.5707963267948966,
-   "length_straight": 0.2,
    "order": 5,
    "length": 0.2,
    "rbend_model": "adaptive",
+   "length_straight": 0.2,
+   "rot_s_rad": 1.5707963267948966,
    "angle": 0.0
   },
   "D_22": {
    "__class__": "Drift",
    "length": 0.182
+  },
+  "BPMA2818T5": {
+   "__class__": "Marker"
   },
   "D_23": {
    "__class__": "Drift",
@@ -156,9 +177,9 @@
   },
   "QH2819T5": {
    "__class__": "Quadrupole",
-   "length": 1.0291,
    "k1": 0.2948796721999806,
-   "order": 5
+   "order": 5,
+   "length": 1.0291
   },
   "ID_73522913_": {
    "__class__": "Drift",
@@ -166,11 +187,11 @@
   },
   "BE2821T5": {
    "__class__": "Bend",
-   "angle": -0.0169497,
-   "edge_entry_angle": -0.00847485,
+   "edge_exit_angle": -0.00847485,
    "order": 5,
    "length": 2.5,
-   "edge_exit_angle": -0.00847485
+   "angle": -0.0169497,
+   "edge_entry_angle": -0.00847485
   },
   "D_26": {
    "__class__": "Drift",
@@ -178,13 +199,16 @@
   },
   "QM2824T5": {
    "__class__": "Quadrupole",
-   "length": 1.0597,
    "k1": -0.2866762791997735,
-   "order": 5
+   "order": 5,
+   "length": 1.0597
   },
   "D_27": {
    "__class__": "Drift",
    "length": 3.59515
+  },
+  "BPMA2828T5": {
+   "__class__": "Marker"
   },
   "D_28": {
    "__class__": "Drift",
@@ -192,9 +216,9 @@
   },
   "QM2829T5": {
    "__class__": "Quadrupole",
-   "length": 1.0597,
    "k1": 0.2878854605001415,
-   "order": 5
+   "order": 5,
+   "length": 1.0597
   },
   "D_29": {
    "__class__": "Drift",
@@ -202,10 +226,10 @@
   },
   "CHX2830T5": {
    "__class__": "RBend",
-   "length_straight": 0.2,
    "order": 5,
    "length": 0.2,
    "rbend_model": "adaptive",
+   "length_straight": 0.2,
    "angle": 0.0
   },
   "D_30": {
@@ -214,27 +238,30 @@
   },
   "SAOX2831T5": {
    "__class__": "Sextupole",
-   "length": 0.3164,
    "k2": -16.23261694,
-   "order": 5
+   "order": 5,
+   "length": 0.3164
   },
   "D_31": {
    "__class__": "Drift",
    "length": 2.1168
   },
+  "BPMA2833T5": {
+   "__class__": "Marker"
+  },
   "QM2834T5": {
    "__class__": "Quadrupole",
-   "length": 1.0597,
    "k1": -0.2866762791997735,
-   "order": 5
+   "order": 5,
+   "length": 1.0597
   },
   "CHY2835T5": {
    "__class__": "RBend",
-   "rot_s_rad": 1.5707963267948966,
-   "length_straight": 0.2,
    "order": 5,
    "length": 0.2,
    "rbend_model": "adaptive",
+   "length_straight": 0.2,
+   "rot_s_rad": 1.5707963267948966,
    "angle": 0.0
   },
   "D_34": {
@@ -243,9 +270,9 @@
   },
   "SAO2836T5": {
    "__class__": "Sextupole",
-   "length": 0.3164,
    "k2": -5.755372945998736,
-   "order": 5
+   "order": 5,
+   "length": 0.3164
   },
   "D_35": {
    "__class__": "Drift",
@@ -253,21 +280,24 @@
   },
   "CHX2838T5": {
    "__class__": "RBend",
-   "length_straight": 0.2,
    "order": 5,
    "length": 0.2,
    "rbend_model": "adaptive",
+   "length_straight": 0.2,
    "angle": 0.0
   },
   "D_36": {
    "__class__": "Drift",
    "length": 0.19
   },
+  "BPMA2838T5": {
+   "__class__": "Marker"
+  },
   "QM2839T5": {
    "__class__": "Quadrupole",
-   "length": 1.0597,
    "k1": 0.2878854605001415,
-   "order": 5
+   "order": 5,
+   "length": 1.0597
   },
   "D_38": {
    "__class__": "Drift",
@@ -275,29 +305,32 @@
   },
   "BE2841T5": {
    "__class__": "Bend",
-   "angle": -0.0169497,
-   "edge_entry_angle": -0.00847485,
+   "edge_exit_angle": -0.00847485,
    "order": 5,
    "length": 2.5,
-   "edge_exit_angle": -0.00847485
+   "angle": -0.0169497,
+   "edge_entry_angle": -0.00847485
   },
   "D_39": {
    "__class__": "Drift",
    "length": 0.875015
   },
+  "BPMA2843T5": {
+   "__class__": "Marker"
+  },
   "QH2844T5": {
    "__class__": "Quadrupole",
-   "length": 1.0291,
    "k1": -0.294760129400447,
-   "order": 5
+   "order": 5,
+   "length": 1.0291
   },
   "CHY2845T5": {
    "__class__": "RBend",
-   "rot_s_rad": 1.5707963267948966,
-   "length_straight": 0.2,
    "order": 5,
    "length": 0.2,
    "rbend_model": "adaptive",
+   "length_straight": 0.2,
+   "rot_s_rad": 1.5707963267948966,
    "angle": 0.0
   },
   "DExtraction": {
@@ -306,11 +339,11 @@
   },
   "BSECP2851T8": {
    "__class__": "RBend",
-   "angle": 0.000102,
-   "length_straight": 0.7999999996532001,
    "order": 5,
    "length": 0.8000000000000002,
-   "rbend_model": "adaptive"
+   "angle": 0.000102,
+   "rbend_model": "adaptive",
+   "length_straight": 0.7999999996532001
   },
   "D00": {
    "__class__": "Drift",
@@ -318,12 +351,12 @@
   },
   "QH2855T5_shift_X": {
    "__class__": "RBend",
-   "k1": 0.19652570639976683,
-   "angle": -7.179926571893521e-05,
-   "length_straight": 1.029099999778952,
    "order": 5,
    "length": 1.0291,
-   "rbend_model": "adaptive"
+   "angle": -7.179926571893521e-05,
+   "rbend_model": "adaptive",
+   "k1": 0.19652570639976683,
+   "length_straight": 1.029099999778952
   },
   "D020": {
    "__class__": "Drift",
@@ -331,12 +364,12 @@
   },
   "QH2858T5_shift_X": {
    "__class__": "RBend",
-   "k1": -0.1965228316995433,
-   "angle": 9.844853111614979e-05,
-   "length_straight": 1.0290999995844103,
    "order": 5,
    "length": 1.0291,
-   "rbend_model": "adaptive"
+   "angle": 9.844853111614979e-05,
+   "rbend_model": "adaptive",
+   "k1": -0.1965228316995433,
+   "length_straight": 1.0290999995844103
   },
   "D022": {
    "__class__": "Drift",
@@ -344,11 +377,11 @@
   },
   "KP2861T8": {
    "__class__": "RBend",
-   "angle": 0.000102,
-   "length_straight": 0.7999999996532001,
    "order": 5,
    "length": 0.8000000000000002,
-   "rbend_model": "adaptive"
+   "angle": 0.000102,
+   "rbend_model": "adaptive",
+   "length_straight": 0.7999999996532001
   },
   "D1": {
    "__class__": "Drift",
@@ -356,11 +389,11 @@
   },
   "KP2862T8": {
    "__class__": "RBend",
-   "angle": 0.000102,
-   "length_straight": 0.7999999996532001,
    "order": 5,
    "length": 0.8000000000000002,
-   "rbend_model": "adaptive"
+   "angle": 0.000102,
+   "rbend_model": "adaptive",
+   "length_straight": 0.7999999996532001
   },
   "D2": {
    "__class__": "Drift",
@@ -368,11 +401,11 @@
   },
   "KP2863T8": {
    "__class__": "RBend",
-   "angle": 0.000102,
-   "length_straight": 0.7999999996532001,
    "order": 5,
    "length": 0.8000000000000002,
-   "rbend_model": "adaptive"
+   "angle": 0.000102,
+   "rbend_model": "adaptive",
+   "length_straight": 0.7999999996532001
   },
   "D3": {
    "__class__": "Drift",
@@ -380,11 +413,11 @@
   },
   "KP2864T8": {
    "__class__": "RBend",
-   "angle": 0.000102,
-   "length_straight": 0.7999999996532001,
    "order": 5,
    "length": 0.8000000000000002,
-   "rbend_model": "adaptive"
+   "angle": 0.000102,
+   "rbend_model": "adaptive",
+   "length_straight": 0.7999999996532001
   },
   "D4": {
    "__class__": "Drift",
@@ -392,11 +425,11 @@
   },
   "KP2865T8": {
    "__class__": "RBend",
-   "angle": 0.000102,
-   "length_straight": 0.7999999996532001,
    "order": 5,
    "length": 0.8000000000000002,
-   "rbend_model": "adaptive"
+   "angle": 0.000102,
+   "rbend_model": "adaptive",
+   "length_straight": 0.7999999996532001
   },
   "D5": {
    "__class__": "Drift",
@@ -404,9 +437,9 @@
   },
   "BZ2876T8": {
    "__class__": "Bend",
-   "angle": 0.00887663,
    "order": 5,
-   "length": 1.0
+   "length": 1.0,
+   "angle": 0.00887663
   },
   "D60": {
    "__class__": "Drift",
@@ -414,12 +447,12 @@
   },
   "QE2878T5_shift_X": {
    "__class__": "RBend",
-   "k1": 0.19227955160000001,
-   "angle": -0.0009936681921591177,
-   "length_straight": 0.23999999012623532,
    "order": 5,
    "length": 0.24,
-   "rbend_model": "adaptive"
+   "angle": -0.0009936681921591177,
+   "rbend_model": "adaptive",
+   "k1": 0.19227955160000001,
+   "length_straight": 0.23999999012623532
   },
   "D62": {
    "__class__": "Drift",
@@ -427,9 +460,9 @@
   },
   "BZ2878T8": {
    "__class__": "Bend",
-   "angle": 0.00887663,
    "order": 5,
-   "length": 1.0
+   "length": 1.0,
+   "angle": 0.00887663
   },
   "D7": {
    "__class__": "Drift",
@@ -437,9 +470,9 @@
   },
   "BZ2880T8": {
    "__class__": "Bend",
-   "angle": 0.00887663,
    "order": 5,
-   "length": 1.0
+   "length": 1.0,
+   "angle": 0.00887663
   },
   "D8": {
    "__class__": "Drift",
@@ -447,9 +480,9 @@
   },
   "BZ2881T8": {
    "__class__": "Bend",
-   "angle": 0.00887663,
    "order": 5,
-   "length": 1.0
+   "length": 1.0,
+   "angle": 0.00887663
   },
   "D9": {
    "__class__": "Drift",
@@ -457,9 +490,9 @@
   },
   "QH2887T8": {
    "__class__": "Quadrupole",
-   "length": 1.0291,
    "k1": -0.19815772395559636,
-   "order": 5
+   "order": 5,
+   "length": 1.0291
   },
   "D10": {
    "__class__": "Drift",
@@ -467,9 +500,9 @@
   },
   "QH2890T8": {
    "__class__": "Quadrupole",
-   "length": 1.0291,
    "k1": 0.3300085694798983,
-   "order": 5
+   "order": 5,
+   "length": 1.0291
   },
   "D11": {
    "__class__": "Drift",
@@ -477,9 +510,9 @@
   },
   "QH2892T8": {
    "__class__": "Quadrupole",
-   "length": 1.0291,
    "k1": -0.07425425220372346,
-   "order": 5
+   "order": 5,
+   "length": 1.0291
   },
   "D12": {
    "__class__": "Drift",
@@ -487,9 +520,9 @@
   },
   "BE2899T8": {
    "__class__": "Bend",
-   "angle": 0.032966988926761906,
    "order": 5,
-   "length": 2.50003
+   "length": 2.50003,
+   "angle": 0.032966988926761906
   },
   "D13": {
    "__class__": "Drift",
@@ -497,9 +530,9 @@
   },
   "QF2906T8": {
    "__class__": "Quadrupole",
-   "length": 0.5321,
    "k1": 0.47921044377506505,
-   "order": 5
+   "order": 5,
+   "length": 0.5321
   },
   "D14": {
    "__class__": "Drift",
@@ -507,9 +540,9 @@
   },
   "QF2911T8": {
    "__class__": "Quadrupole",
-   "length": 0.5321,
    "k1": -0.16064089176124277,
-   "order": 5
+   "order": 5,
+   "length": 0.5321
   },
   "D15": {
    "__class__": "Drift",
@@ -517,9 +550,9 @@
   },
   "QF2920T8": {
    "__class__": "Quadrupole",
-   "length": 0.5321,
    "k1": -0.14478637910298262,
-   "order": 5
+   "order": 5,
+   "length": 0.5321
   },
   "D16": {
    "__class__": "Drift",
@@ -527,9 +560,9 @@
   },
   "QF2925T8": {
    "__class__": "Quadrupole",
-   "length": 0.5321,
    "k1": 0.3030725364181882,
-   "order": 5
+   "order": 5,
+   "length": 0.5321
   },
   "D17": {
    "__class__": "Drift",
@@ -537,9 +570,9 @@
   },
   "BE2935T8": {
    "__class__": "Bend",
-   "angle": -0.0170504,
    "order": 5,
-   "length": 2.50003
+   "length": 2.50003,
+   "angle": -0.0170504
   },
   "D18": {
    "__class__": "Drift",
@@ -547,9 +580,9 @@
   },
   "QH2941T8": {
    "__class__": "Quadrupole",
-   "length": 1.0291,
    "k1": -0.5273318169749354,
-   "order": 5
+   "order": 5,
+   "length": 1.0291
   },
   "D19": {
    "__class__": "Drift",
@@ -557,9 +590,9 @@
   },
   "QH2944T8": {
    "__class__": "Quadrupole",
-   "length": 1.0291,
    "k1": 0.33090614001636626,
-   "order": 5
+   "order": 5,
+   "length": 1.0291
   },
   "D20": {
    "__class__": "Drift",
@@ -567,9 +600,9 @@
   },
   "QH2946T8": {
    "__class__": "Quadrupole",
-   "length": 1.0291,
    "k1": -0.25267851101204586,
-   "order": 5
+   "order": 5,
+   "length": 1.0291
   },
   "D21": {
    "__class__": "Drift",
@@ -577,9 +610,9 @@
   },
   "BE2953T8": {
    "__class__": "Bend",
-   "angle": -0.017168689999999997,
    "order": 5,
-   "length": 2.50003
+   "length": 2.50003,
+   "angle": -0.017168689999999997
   },
   "D22": {
    "__class__": "Drift",
@@ -587,9 +620,9 @@
   },
   "QF2955T8": {
    "__class__": "Quadrupole",
-   "length": 0.5321,
    "k1": 0.39381855955663786,
-   "order": 5
+   "order": 5,
+   "length": 0.5321
   },
   "D23": {
    "__class__": "Drift",
@@ -597,9 +630,9 @@
   },
   "QF2961T8": {
    "__class__": "Quadrupole",
-   "length": 0.5321,
    "k1": -0.4539907241044157,
-   "order": 5
+   "order": 5,
+   "length": 0.5321
   },
   "D24": {
    "__class__": "Drift",
@@ -607,9 +640,9 @@
   },
   "QF2981T8": {
    "__class__": "Quadrupole",
-   "length": 0.5321,
    "k1": 0.4407775590157912,
-   "order": 5
+   "order": 5,
+   "length": 0.5321
   },
   "D25": {
    "__class__": "Drift",
@@ -617,9 +650,9 @@
   },
   "QF2987T8": {
    "__class__": "Quadrupole",
-   "length": 0.5321,
    "k1": -0.31544646203648274,
-   "order": 5
+   "order": 5,
+   "length": 0.5321
   },
   "DTransport": {
    "__class__": "Drift",
@@ -627,9 +660,9 @@
   },
   "QE1T8": {
    "__class__": "Quadrupole",
-   "length": 0.24,
    "k1": 0.5142857142857143,
-   "order": 5
+   "order": 5,
+   "length": 0.24
   },
   "DFODO": {
    "__class__": "Drift",
@@ -637,15 +670,15 @@
   },
   "QE2T8": {
    "__class__": "Quadrupole",
-   "length": 0.24,
    "k1": -0.5142857142857143,
-   "order": 5
+   "order": 5,
+   "length": 0.24
   },
   "QH11T20": {
    "__class__": "Quadrupole",
-   "length": 1.0291,
    "k1": -0.14788652119851647,
-   "order": 5
+   "order": 5,
+   "length": 1.0291
   },
   "D038545": {
    "__class__": "Drift",
@@ -653,17 +686,17 @@
   },
   "CHXT20": {
    "__class__": "RBend",
-   "length_straight": 0.2,
    "order": 5,
    "length": 0.2,
    "rbend_model": "adaptive",
+   "length_straight": 0.2,
    "angle": 0.0
   },
   "QH12T20": {
    "__class__": "Quadrupole",
-   "length": 1.0291,
    "k1": 0.03890579702141839,
-   "order": 5
+   "order": 5,
+   "length": 1.0291
   },
   "D018545": {
    "__class__": "Drift",
@@ -671,15 +704,18 @@
   },
   "CHYT20": {
    "__class__": "RBend",
-   "length_straight": 0.2,
    "order": 5,
    "length": 0.2,
    "rbend_model": "adaptive",
+   "length_straight": 0.2,
    "angle": 0.0
   },
   "D0200": {
    "__class__": "Drift",
    "length": 0.2
+  },
+  "BPMAT20": {
+   "__class__": "Marker"
   },
   "D03982L": {
    "__class__": "Drift",
@@ -687,9 +723,9 @@
   },
   "QH13T20": {
    "__class__": "Quadrupole",
-   "length": 1.0291,
    "k1": 0.039207806934336044,
-   "order": 5
+   "order": 5,
+   "length": 1.0291
   },
   "D01918": {
    "__class__": "Drift",
@@ -697,15 +733,15 @@
   },
   "QH14T20": {
    "__class__": "Quadrupole",
-   "length": 1.0291,
    "k1": 0.17740036197542125,
-   "order": 5
+   "order": 5,
+   "length": 1.0291
   },
   "QH15T20": {
    "__class__": "Quadrupole",
-   "length": 1.0291,
    "k1": -0.42236472045218826,
-   "order": 5
+   "order": 5,
+   "length": 1.0291
   },
   "D01500": {
    "__class__": "Drift",
@@ -715,106 +751,78 @@
    "__class__": "Drift",
    "length": 0.85
   },
+  "TARGETLUXET20": {
+   "__class__": "Marker"
+  },
   "D46200": {
    "__class__": "Drift",
    "length": 4.62
+  },
+  "DUMP1LUXET20": {
+   "__class__": "Marker"
   },
   "D2890L": {
    "__class__": "Drift",
    "length": 2.890001
   },
+  "IPLUXET20": {
+   "__class__": "Marker"
+  },
   "D70899L": {
    "__class__": "Drift",
    "length": 7.089999
+  },
+  "DUMP2LUXET20": {
+   "__class__": "Marker"
   }
  },
  "particle_ref": {
-  "rvv": [
-   1.0
-  ],
-  "zeta": [
-   0.0
-  ],
-  "q0": -1.0,
   "p0c": [
-   17.50000000746057
-  ],
-  "ptau": [
-   0.0
-  ],
-  "at_element": [
-   0
-  ],
-  "rpp": [
-   1.0
-  ],
-  "spin_x": [
-   0.0
-  ],
-  "beta0": [
-   3.424664570680289e-05
-  ],
-  "delta": [
-   0.0
-  ],
-  "weight": [
-   1.0
-  ],
-  "_rng_s3": [
-   0
-  ],
-  "anomalous_magnetic_moment": [
-   0.0
-  ],
-  "parent_particle_id": [
-   0
-  ],
-  "spin_y": [
-   0.0
-  ],
-  "gamma0": [
-   1.0000000005864165
-  ],
-  "mass0": 510998.95,
-  "particle_id": [
-   0
-  ],
-  "ax": [
-   0.0
-  ],
-  "_rng_s4": [
-   0
-  ],
-  "pdg_id": [
-   0
-  ],
-  "charge_ratio": [
-   1.0
-  ],
-  "state": [
-   1
-  ],
-  "spin_z": [
-   0.0
+   17.5
   ],
   "_rng_s1": [
+   0
+  ],
+  "_rng_s3": [
    0
   ],
   "px": [
    0.0
   ],
-  "y": [
+  "beta0": [
+   3.4246645692202915e-05
+  ],
+  "charge_ratio": [
+   1.0
+  ],
+  "at_element": [
+   0
+  ],
+  "spin_y": [
    0.0
   ],
+  "spin_x": [
+   0.0
+  ],
+  "q0": -1.0,
   "start_tracking_at_element": -1,
-  "ay": [
-   0.0
-  ],
   "x": [
    0.0
   ],
-  "py": [
+  "pdg_id": [
+   0
+  ],
+  "_rng_s4": [
+   0
+  ],
+  "chi": [
+   1.0
+  ],
+  "delta": [
    0.0
+  ],
+  "gamma0": [
+   1.0000000005864165
   ],
   "_rng_s2": [
    0
@@ -822,11 +830,51 @@
   "at_turn": [
    0
   ],
+  "spin_z": [
+   0.0
+  ],
+  "mass0": 510998.95,
+  "parent_particle_id": [
+   0
+  ],
+  "weight": [
+   1.0
+  ],
+  "state": [
+   1
+  ],
+  "py": [
+   0.0
+  ],
+  "zeta": [
+   0.0
+  ],
+  "ax": [
+   0.0
+  ],
+  "ptau": [
+   0.0
+  ],
+  "y": [
+   0.0
+  ],
+  "rvv": [
+   1.0
+  ],
+  "ay": [
+   0.0
+  ],
+  "particle_id": [
+   0
+  ],
   "s": [
    0.0
   ],
-  "chi": [
+  "rpp": [
    1.0
+  ],
+  "anomalous_magnetic_moment": [
+   0.0
   ]
  },
  "_var_management_data": {
@@ -2097,31 +2145,37 @@
    "__class__": "Line",
    "element_names": [
     "ID_71329109_",
+    "BPMA2756T5",
     "D_3",
     "QE2756T5",
     "D_4",
     "CEY2756T5",
     "D_5",
+    "BPMA2766T5",
     "D_3",
     "QE2766T5",
     "D_4",
     "CEX2766T5",
     "D_5",
+    "BPMA2776T5",
     "D_3",
     "QE2776T5",
     "D_4",
     "CEX2776T5",
     "D_5",
+    "BPMA2786T5",
     "D_3",
     "QE2786T5",
     "D_4",
     "CEY2786T5",
     "D_14",
+    "BPMA2804T5",
     "D_15",
     "QH2804T5",
     "D_16",
     "CHX2805T5",
     "D_17",
+    "BPMA2807T5",
     "D_15",
     "QH2807T5",
     "D_16",
@@ -2131,6 +2185,7 @@
     "D_21",
     "CHY2818T5",
     "D_22",
+    "BPMA2818T5",
     "D_23",
     "QH2819T5",
     "ID_73522913_",
@@ -2138,6 +2193,7 @@
     "D_26",
     "QM2824T5",
     "D_27",
+    "BPMA2828T5",
     "D_28",
     "QM2829T5",
     "D_29",
@@ -2145,6 +2201,7 @@
     "D_30",
     "SAOX2831T5",
     "D_31",
+    "BPMA2833T5",
     "D_28",
     "QM2834T5",
     "D_29",
@@ -2154,11 +2211,13 @@
     "D_35",
     "CHX2838T5",
     "D_36",
+    "BPMA2838T5",
     "D_28",
     "QM2839T5",
     "D_38",
     "BE2841T5",
     "D_39",
+    "BPMA2843T5",
     "D_15",
     "QH2844T5",
     "D_16",
@@ -2248,6 +2307,7 @@
     "D018545",
     "CHYT20",
     "D0200",
+    "BPMAT20",
     "D03982L",
     "CHXT20",
     "D0200",
@@ -2261,10 +2321,15 @@
     "D01918",
     "QH15T20",
     "D01500",
+    "BPMAT20",
     "D08500",
+    "TARGETLUXET20",
     "D46200",
+    "DUMP1LUXET20",
     "D2890L",
-    "D70899L"
+    "IPLUXET20",
+    "D70899L",
+    "DUMP2LUXET20"
    ],
    "config": {
     "XTRACK_MULTIPOLE_NO_SYNRAD": true,
@@ -2299,31 +2364,37 @@
     "__class__": "Builder",
     "components": [
      "ID_71329109_",
+     "BPMA2756T5",
      "D_3",
      "QE2756T5",
      "D_4",
      "CEY2756T5",
      "D_5",
+     "BPMA2766T5",
      "D_3",
      "QE2766T5",
      "D_4",
      "CEX2766T5",
      "D_5",
+     "BPMA2776T5",
      "D_3",
      "QE2776T5",
      "D_4",
      "CEX2776T5",
      "D_5",
+     "BPMA2786T5",
      "D_3",
      "QE2786T5",
      "D_4",
      "CEY2786T5",
      "D_14",
+     "BPMA2804T5",
      "D_15",
      "QH2804T5",
      "D_16",
      "CHX2805T5",
      "D_17",
+     "BPMA2807T5",
      "D_15",
      "QH2807T5",
      "D_16",
@@ -2333,6 +2404,7 @@
      "D_21",
      "CHY2818T5",
      "D_22",
+     "BPMA2818T5",
      "D_23",
      "QH2819T5",
      "ID_73522913_",
@@ -2340,6 +2412,7 @@
      "D_26",
      "QM2824T5",
      "D_27",
+     "BPMA2828T5",
      "D_28",
      "QM2829T5",
      "D_29",
@@ -2347,6 +2420,7 @@
      "D_30",
      "SAOX2831T5",
      "D_31",
+     "BPMA2833T5",
      "D_28",
      "QM2834T5",
      "D_29",
@@ -2356,11 +2430,13 @@
      "D_35",
      "CHX2838T5",
      "D_36",
+     "BPMA2838T5",
      "D_28",
      "QM2839T5",
      "D_38",
      "BE2841T5",
      "D_39",
+     "BPMA2843T5",
      "D_15",
      "QH2844T5",
      "D_16",
@@ -2450,6 +2526,7 @@
      "D018545",
      "CHYT20",
      "D0200",
+     "BPMAT20",
      "D03982L",
      "CHXT20",
      "D0200",
@@ -2463,101 +2540,66 @@
      "D01918",
      "QH15T20",
      "D01500",
+     "BPMAT20",
      "D08500",
+     "TARGETLUXET20",
      "D46200",
+     "DUMP1LUXET20",
      "D2890L",
-     "D70899L"
+     "IPLUXET20",
+     "D70899L",
+     "DUMP2LUXET20"
     ],
     "refer": "end",
     "s_tol": 1e-06
    },
    "particle_ref": {
-    "rvv": [
-     1.0
-    ],
-    "zeta": [
-     0.0
-    ],
-    "q0": -1.0,
     "p0c": [
-     17.50000000746057
-    ],
-    "ptau": [
-     0.0
-    ],
-    "at_element": [
-     0
-    ],
-    "rpp": [
-     1.0
-    ],
-    "spin_x": [
-     0.0
-    ],
-    "beta0": [
-     3.424664570680289e-05
-    ],
-    "delta": [
-     0.0
-    ],
-    "weight": [
-     1.0
-    ],
-    "_rng_s3": [
-     0
-    ],
-    "anomalous_magnetic_moment": [
-     0.0
-    ],
-    "parent_particle_id": [
-     0
-    ],
-    "spin_y": [
-     0.0
-    ],
-    "gamma0": [
-     1.0000000005864165
-    ],
-    "mass0": 510998.95,
-    "particle_id": [
-     0
-    ],
-    "ax": [
-     0.0
-    ],
-    "_rng_s4": [
-     0
-    ],
-    "pdg_id": [
-     0
-    ],
-    "charge_ratio": [
-     1.0
-    ],
-    "state": [
-     1
-    ],
-    "spin_z": [
-     0.0
+     17.5
     ],
     "_rng_s1": [
+     0
+    ],
+    "_rng_s3": [
      0
     ],
     "px": [
      0.0
     ],
-    "y": [
+    "beta0": [
+     3.4246645692202915e-05
+    ],
+    "charge_ratio": [
+     1.0
+    ],
+    "at_element": [
+     0
+    ],
+    "spin_y": [
      0.0
     ],
+    "spin_x": [
+     0.0
+    ],
+    "q0": -1.0,
     "start_tracking_at_element": -1,
-    "ay": [
-     0.0
-    ],
     "x": [
      0.0
     ],
-    "py": [
+    "pdg_id": [
+     0
+    ],
+    "_rng_s4": [
+     0
+    ],
+    "chi": [
+     1.0
+    ],
+    "delta": [
      0.0
+    ],
+    "gamma0": [
+     1.0000000005864165
     ],
     "_rng_s2": [
      0
@@ -2565,11 +2607,51 @@
     "at_turn": [
      0
     ],
+    "spin_z": [
+     0.0
+    ],
+    "mass0": 510998.95,
+    "parent_particle_id": [
+     0
+    ],
+    "weight": [
+     1.0
+    ],
+    "state": [
+     1
+    ],
+    "py": [
+     0.0
+    ],
+    "zeta": [
+     0.0
+    ],
+    "ax": [
+     0.0
+    ],
+    "ptau": [
+     0.0
+    ],
+    "y": [
+     0.0
+    ],
+    "rvv": [
+     1.0
+    ],
+    "ay": [
+     0.0
+    ],
+    "particle_id": [
+     0
+    ],
     "s": [
      0.0
     ],
-    "chi": [
+    "rpp": [
      1.0
+    ],
+    "anomalous_magnetic_moment": [
+     0.0
     ]
    },
    "env_particles": {},
