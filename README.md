@@ -7,7 +7,7 @@
 * 4_Bdsim (BDSIM models)
 * 5_Fluka (FLUKA models)
 * 6_Coupling (XSuite-BDSIM model)
-
+* 7_Integration (Excel spreadsheets for CAD integration)
 
 ### Optics configurations
 * XTD8 presented at ELBEX collaboration meeting Feb 2026
