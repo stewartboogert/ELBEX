@@ -7,3 +7,8 @@
 * 4_Bdsim (BDSIM models)
 * 5_Fluka (FLUKA models)
 * 6_Coupling (XSuite-BDSIM model)
+
+
+### Optics configurations
+* XTD8 presented at ELBEX collaboration meeting Feb 2026
+* XTD8_1_shielding_moves updated with moves proposed by B. List Feb 2026
